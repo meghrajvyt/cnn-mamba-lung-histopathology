@@ -1,0 +1,32 @@
+# Exact versions used for the Paper 1 experiments (AWS g5.xlarge, NVIDIA A10G,
+# Python 3.13.16, CUDA 13.0). requirements.txt gives the minimum versions.
+#
+#   pip install -r requirements-lock.txt \
+#       --extra-index-url https://download.pytorch.org/whl/cu130
+torch==2.14.1+cu130
+torchvision==0.29.1+cu130
+timm==1.0.30
+einops==0.8.2
+numpy==2.3.5
+scipy==1.18.1
+scikit-learn==1.9.1
+pandas==3.0.6
+matplotlib==3.11.2
+seaborn==0.13.2
+pillow==12.3.0
+opencv-python-headless==5.0.0.93
+PyYAML==6.0.3
+tqdm==4.70.1
+tensorboard==2.21.0
+huggingface_hub==2.2.0
+safetensors==0.8.0
+
+# Phikon linear probe only (tools/fm_probe.py). Installed outside the training
+# environment with --no-deps:
+#   pip install --target ~/fm_pkgs --no-deps transformers==5.19.0 \
+#       tokenizers==0.23.3 regex==2026.9.29
+#   PYTHONPATH=~/fm_pkgs python3 tools/fm_probe.py
+# VMamba-T only: mamba_ssm==2.3.2.post1, built from source for PyTorch 2.14
+# (no wheel exists; see README.md); triton==3.8.0 came with PyTorch.
+# Tests and table regeneration (analysis computer):
+#   pip install pytest==9.1.1 pypdf==6.20.1

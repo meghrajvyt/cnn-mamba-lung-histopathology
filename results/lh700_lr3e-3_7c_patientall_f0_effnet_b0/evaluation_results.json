@@ -1,0 +1,157 @@
+{
+  "metrics": {
+    "accuracy": 0.39751552795031053,
+    "balanced_accuracy": 0.40204081632653066,
+    "precision_macro": 0.4020105457462111,
+    "precision_weighted": 0.44043786973736077,
+    "recall_macro": 0.40204081632653066,
+    "recall_weighted": 0.39751552795031053,
+    "f1_macro": 0.38299979684940705,
+    "f1_weighted": 0.3967730955624613,
+    "mcc": 0.3116824060968149,
+    "cohens_kappa": 0.3042102918244598,
+    "cohens_kappa_weighted": 0.581606641605253,
+    "ece": 0.16888857730056928,
+    "brier_score": 0.7412086725234985,
+    "auc_roc": 0.7527998961333665,
+    "per_class": {
+      "aca_bd": {
+        "precision": 0.76,
+        "recall": 0.95,
+        "f1-score": 0.8444444444444444,
+        "support": 20,
+        "auc_roc": 0.9950354609929077
+      },
+      "aca_md": {
+        "precision": 0.3333333333333333,
+        "recall": 0.11428571428571428,
+        "f1-score": 0.1702127659574468,
+        "support": 35,
+        "auc_roc": 0.702267573696145
+      },
+      "aca_pd": {
+        "precision": 0.11538461538461539,
+        "recall": 0.1875,
+        "f1-score": 0.14285714285714285,
+        "support": 16,
+        "auc_roc": 0.4362068965517242
+      },
+      "nor": {
+        "precision": 0.7407407407407407,
+        "recall": 0.6896551724137931,
+        "f1-score": 0.7142857142857143,
+        "support": 29,
+        "auc_roc": 0.9417450365726228
+      },
+      "scc_bd": {
+        "precision": 0.16129032258064516,
+        "recall": 0.3125,
+        "f1-score": 0.2127659574468085,
+        "support": 16,
+        "auc_roc": 0.7193965517241379
+      },
+      "scc_md": {
+        "precision": 0.17391304347826086,
+        "recall": 0.25,
+        "f1-score": 0.20512820512820512,
+        "support": 16,
+        "auc_roc": 0.7129310344827586
+      },
+      "scc_pd": {
+        "precision": 0.5294117647058824,
+        "recall": 0.3103448275862069,
+        "f1-score": 0.391304347826087,
+        "support": 29,
+        "auc_roc": 0.7620167189132706
+      }
+    }
+  },
+  "confusion_matrix": [
+    [
+      19,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      4,
+      15,
+      2,
+      4,
+      6,
+      4
+    ],
+    [
+      3,
+      7,
+      3,
+      0,
+      1,
+      0,
+      2
+    ],
+    [
+      3,
+      0,
+      3,
+      20,
+      2,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      2,
+      5,
+      8,
+      1
+    ],
+    [
+      0,
+      0,
+      3,
+      2,
+      6,
+      4,
+      1
+    ],
+    [
+      0,
+      1,
+      2,
+      0,
+      13,
+      4,
+      9
+    ]
+  ],
+  "parameter_counts": {
+    "total": 4016515,
+    "trainable": 4016515,
+    "backbone": 4016515
+  },
+  "inference_benchmark": {
+    "mean_ms": 6.758080940035143,
+    "std_ms": 0.12011460546135101,
+    "throughput_fps": 147.97100077271344
+  },
+  "checkpoint": "./checkpoints/lh700_lr3e-3_7c_patientall_f0_effnet_b0/best_model.pth",
+  "device": "cuda",
+  "test_size": 161,
+  "num_classes": 7,
+  "class_names": [
+    "aca_bd",
+    "aca_md",
+    "aca_pd",
+    "nor",
+    "scc_bd",
+    "scc_md",
+    "scc_pd"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Explainable residual CNN-Mamba hybrid for lung cancer histopathology: code, recovered LC25000 groups, splits and results",
+  "description": "<p>Code and released data for a leakage-controlled study of an explainable residual CNN-Mamba hybrid on lung histopathology. The archive contains the architecture and its comparators, the recovery of the 716 LC25000 source-image groups, the LungHist700 patient-level folds and external-test splits, the per-image predictions, the measured explanation metrics (pathway attribution and deletion-insertion faithfulness), the cost benchmark, a standalone state-space comparator (VMamba-T) and the learning-rate and random-map sensitivity analyses, the cluster-aware statistics, and the scripts that regenerate every table and figure of the paper.</p><p>The datasets analysed are LC25000 (Borkowski et al., 2019) and LungHist700 (Diosdado et al., 2024, CC BY 4.0); neither is redistributed here. The grouping of LC25000 used in the sensitivity analysis comes from LC25000-clean (Batchkala et al., 2024).</p>",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Soni, Meghraj",
+      "affiliation": "Department of Computer Science and Engineering, School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur, India",
+      "orcid": "0009-0000-9458-661X"
+    },
+    {
+      "name": "Sharma, Suraj",
+      "affiliation": "Department of Computer Science and Engineering, School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur, India",
+      "orcid": "0000-0002-9403-9373"
+    }
+  ],
+  "keywords": [
+    "lung cancer",
+    "histopathology",
+    "deep learning",
+    "state-space models",
+    "Mamba",
+    "explainable artificial intelligence",
+    "data leakage",
+    "LC25000",
+    "LungHist700"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.6084/m9.figshare.25459174",
+      "relation": "references",
+      "resource_type": "dataset",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1038/s41597-024-03944-3",
+      "relation": "references",
+      "resource_type": "publication-article",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "arXiv:1912.12142",
+      "relation": "references",
+      "resource_type": "publication-preprint",
+      "scheme": "arxiv"
+    }
+  ],
+  "license": "mit",
+  "access_right": "open"
+}

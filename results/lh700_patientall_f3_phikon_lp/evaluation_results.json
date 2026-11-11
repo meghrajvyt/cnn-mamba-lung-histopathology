@@ -1,0 +1,10 @@
+{
+ "metrics": {
+  "accuracy": 0.8029197080291971
+ },
+ "probe": {
+  "C": 0.01,
+  "val_accuracy": 0.8169014084507042
+ },
+ "model": "owkin/phikon (frozen) + logistic regression"
+}

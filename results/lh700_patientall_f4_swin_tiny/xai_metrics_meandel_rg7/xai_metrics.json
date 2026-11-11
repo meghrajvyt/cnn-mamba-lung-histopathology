@@ -1,0 +1,256 @@
+{
+  "run": "lh700_patientall_f4_swin_tiny",
+  "arch": "swin_tiny",
+  "checkpoint": "checkpoints/lh700_patientall_f4_swin_tiny/best_model.pth",
+  "data_root": "./data_lh700_512",
+  "split_type": "explicit",
+  "test_size": 139,
+  "class_names": [
+    "lung_aca",
+    "lung_n",
+    "lung_scc"
+  ],
+  "settings": {
+    "num_samples": 100000,
+    "steps": 25,
+    "deletion_baseline": "mean",
+    "random_grid": 7,
+    "seed": 0,
+    "include_inverse": false
+  },
+  "faithfulness": {
+    "n": 139,
+    "accuracy_on_subset": 0.762589928057554,
+    "maps": {
+      "swin": {
+        "deletion": {
+          "mean": 0.5636903643608093,
+          "sd": 0.19582749903202057,
+          "ci95": [
+            0.5310651063919067,
+            0.5961793661117554
+          ],
+          "median": 0.6125101447105408,
+          "minus_random": {
+            "mean": -0.09959553927183151,
+            "sd": 0.1501711755990982,
+            "ci95": [
+              -0.12454093247652054,
+              -0.07421856373548508
+            ],
+            "median": -0.0923188328742981
+          },
+          "wilcoxon_p_vs_random": 1.7145465819670691e-12
+        },
+        "insertion": {
+          "mean": 0.6914322972297668,
+          "sd": 0.1851952224969864,
+          "ci95": [
+            0.6608214974403381,
+            0.7218168377876282
+          ],
+          "median": 0.7399397492408752,
+          "minus_random": {
+            "mean": 0.03591582179069519,
+            "sd": 0.12622442841529846,
+            "ci95": [
+              0.014728114008903503,
+              0.0569610558450222
+            ],
+            "median": 0.031804949045181274
+          },
+          "wilcoxon_p_vs_random": 0.0005602305755019188
+        },
+        "ins_minus_del": {
+          "mean": 0.1277419477701187,
+          "sd": 0.22126996517181396,
+          "ci95": [
+            0.09122220426797867,
+            0.16456609964370728
+          ],
+          "median": 0.14505457878112793,
+          "minus_random": {
+            "mean": 0.1355113536119461,
+            "sd": 0.21285612881183624,
+            "ci95": [
+              0.10059616714715958,
+              0.17072027921676636
+            ],
+            "median": 0.11618119478225708
+          },
+          "wilcoxon_p_vs_random": 4.746516114179089e-12
+        }
+      },
+      "random": {
+        "deletion": {
+          "mean": 0.6632858514785767,
+          "sd": 0.20975254476070404,
+          "ci95": [
+            0.6270968317985535,
+            0.6970013976097107
+          ],
+          "median": 0.7505552768707275
+        },
+        "insertion": {
+          "mean": 0.655516505241394,
+          "sd": 0.20183464884757996,
+          "ci95": [
+            0.6233333945274353,
+            0.6887434720993042
+          ],
+          "median": 0.7152767777442932
+        },
+        "ins_minus_del": {
+          "mean": -0.007769410498440266,
+          "sd": 0.23586782813072205,
+          "ci95": [
+            -0.04728320613503456,
+            0.033129844814538956
+          ],
+          "median": -0.01929616928100586
+        }
+      }
+    }
+  },
+  "faithfulness_images": [
+    "lung_aca/aca_bd_20x_301.jpg",
+    "lung_aca/aca_bd_20x_302.jpg",
+    "lung_aca/aca_bd_20x_303.jpg",
+    "lung_aca/aca_bd_20x_304.jpg",
+    "lung_aca/aca_bd_20x_305.jpg",
+    "lung_aca/aca_bd_20x_42.jpg",
+    "lung_aca/aca_bd_40x_301.jpg",
+    "lung_aca/aca_bd_40x_302.jpg",
+    "lung_aca/aca_bd_40x_303.jpg",
+    "lung_aca/aca_bd_40x_304.jpg",
+    "lung_aca/aca_bd_40x_305.jpg",
+    "lung_aca/aca_md_20x_301.jpg",
+    "lung_aca/aca_md_20x_302.jpg",
+    "lung_aca/aca_md_20x_303.jpg",
+    "lung_aca/aca_md_20x_304.jpg",
+    "lung_aca/aca_md_20x_305.jpg",
+    "lung_aca/aca_md_20x_306.jpg",
+    "lung_aca/aca_md_20x_41.jpg",
+    "lung_aca/aca_md_40x_302.jpg",
+    "lung_aca/aca_md_40x_303.jpg",
+    "lung_aca/aca_md_40x_304.jpg",
+    "lung_aca/aca_md_40x_305.jpg",
+    "lung_aca/aca_md_40x_306.jpg",
+    "lung_aca/aca_md_40x_59.jpg",
+    "lung_aca/aca_md_40x_60.jpg",
+    "lung_aca/aca_md_40x_61.jpg",
+    "lung_aca/aca_md_40x_62.jpg",
+    "lung_aca/aca_md_40x_63.jpg",
+    "lung_aca/aca_pd_20x_30.jpg",
+    "lung_aca/aca_pd_20x_31.jpg",
+    "lung_aca/aca_pd_20x_32.jpg",
+    "lung_aca/aca_pd_20x_33.jpg",
+    "lung_aca/aca_pd_20x_34.jpg",
+    "lung_aca/aca_pd_20x_35.jpg",
+    "lung_aca/aca_pd_20x_36.jpg",
+    "lung_aca/aca_pd_20x_37.jpg",
+    "lung_aca/aca_pd_20x_38.jpg",
+    "lung_aca/aca_pd_20x_39.jpg",
+    "lung_aca/aca_pd_40x_20.jpg",
+    "lung_aca/aca_pd_40x_21.jpg",
+    "lung_aca/aca_pd_40x_22.jpg",
+    "lung_aca/aca_pd_40x_23.jpg",
+    "lung_aca/aca_pd_40x_24.jpg",
+    "lung_aca/aca_pd_40x_25.jpg",
+    "lung_aca/aca_pd_40x_26.jpg",
+    "lung_aca/aca_pd_40x_305.jpg",
+    "lung_aca/aca_pd_40x_306.jpg",
+    "lung_aca/aca_pd_40x_31.jpg",
+    "lung_aca/aca_pd_40x_32.jpg",
+    "lung_aca/aca_pd_40x_33.jpg",
+    "lung_aca/aca_pd_40x_34.jpg",
+    "lung_aca/aca_pd_40x_35.jpg",
+    "lung_aca/aca_pd_40x_36.jpg",
+    "lung_aca/aca_pd_40x_37.jpg",
+    "lung_aca/aca_pd_40x_64.jpg",
+    "lung_n/nor_20x_301.jpg",
+    "lung_n/nor_20x_302.jpg",
+    "lung_n/nor_20x_303.jpg",
+    "lung_n/nor_20x_304.jpg",
+    "lung_n/nor_20x_305.jpg",
+    "lung_n/nor_20x_61.jpg",
+    "lung_n/nor_20x_62.jpg",
+    "lung_n/nor_20x_63.jpg",
+    "lung_n/nor_20x_64.jpg",
+    "lung_n/nor_20x_65.jpg",
+    "lung_n/nor_20x_66.jpg",
+    "lung_n/nor_20x_67.jpg",
+    "lung_n/nor_20x_68.jpg",
+    "lung_n/nor_40x_100.jpg",
+    "lung_n/nor_40x_101.jpg",
+    "lung_n/nor_40x_301.jpg",
+    "lung_n/nor_40x_302.jpg",
+    "lung_n/nor_40x_303.jpg",
+    "lung_n/nor_40x_304.jpg",
+    "lung_n/nor_40x_305.jpg",
+    "lung_n/nor_40x_80.jpg",
+    "lung_n/nor_40x_88.jpg",
+    "lung_n/nor_40x_90.jpg",
+    "lung_n/nor_40x_91.jpg",
+    "lung_n/nor_40x_92.jpg",
+    "lung_n/nor_40x_93.jpg",
+    "lung_n/nor_40x_94.jpg",
+    "lung_n/nor_40x_95.jpg",
+    "lung_n/nor_40x_96.jpg",
+    "lung_n/nor_40x_97.jpg",
+    "lung_n/nor_40x_98.jpg",
+    "lung_n/nor_40x_99.jpg",
+    "lung_scc/scc_bd_20x_301.jpg",
+    "lung_scc/scc_bd_20x_302.jpg",
+    "lung_scc/scc_bd_20x_303.jpg",
+    "lung_scc/scc_bd_20x_304.jpg",
+    "lung_scc/scc_bd_20x_305.jpg",
+    "lung_scc/scc_bd_20x_34.jpg",
+    "lung_scc/scc_bd_20x_35.jpg",
+    "lung_scc/scc_bd_20x_36.jpg",
+    "lung_scc/scc_bd_20x_37.jpg",
+    "lung_scc/scc_bd_20x_38.jpg",
+    "lung_scc/scc_bd_20x_39.jpg",
+    "lung_scc/scc_bd_20x_40.jpg",
+    "lung_scc/scc_bd_20x_401.jpg",
+    "lung_scc/scc_bd_20x_402.jpg",
+    "lung_scc/scc_bd_20x_403.jpg",
+    "lung_scc/scc_bd_20x_404.jpg",
+    "lung_scc/scc_bd_20x_405.jpg",
+    "lung_scc/scc_bd_20x_41.jpg",
+    "lung_scc/scc_bd_20x_80.jpg",
+    "lung_scc/scc_bd_20x_81.jpg",
+    "lung_scc/scc_bd_20x_82.jpg",
+    "lung_scc/scc_bd_40x_27.jpg",
+    "lung_scc/scc_bd_40x_28.jpg",
+    "lung_scc/scc_bd_40x_29.jpg",
+    "lung_scc/scc_bd_40x_30.jpg",
+    "lung_scc/scc_bd_40x_301.jpg",
+    "lung_scc/scc_bd_40x_302.jpg",
+    "lung_scc/scc_bd_40x_303.jpg",
+    "lung_scc/scc_bd_40x_304.jpg",
+    "lung_scc/scc_bd_40x_305.jpg",
+    "lung_scc/scc_bd_40x_31.jpg",
+    "lung_scc/scc_bd_40x_32.jpg",
+    "lung_scc/scc_bd_40x_33.jpg",
+    "lung_scc/scc_bd_40x_34.jpg",
+    "lung_scc/scc_bd_40x_35.jpg",
+    "lung_scc/scc_bd_40x_36.jpg",
+    "lung_scc/scc_bd_40x_37.jpg",
+    "lung_scc/scc_bd_40x_38.jpg",
+    "lung_scc/scc_bd_40x_39.jpg",
+    "lung_scc/scc_bd_40x_40.jpg",
+    "lung_scc/scc_bd_40x_401.jpg",
+    "lung_scc/scc_bd_40x_402.jpg",
+    "lung_scc/scc_bd_40x_403.jpg",
+    "lung_scc/scc_bd_40x_404.jpg",
+    "lung_scc/scc_bd_40x_405.jpg",
+    "lung_scc/scc_bd_40x_41.jpg",
+    "lung_scc/scc_bd_40x_82.jpg",
+    "lung_scc/scc_bd_40x_83.jpg",
+    "lung_scc/scc_bd_40x_84.jpg",
+    "lung_scc/scc_bd_40x_85.jpg",
+    "lung_scc/scc_bd_40x_86.jpg",
+    "lung_scc/scc_bd_40x_87.jpg"
+  ]
+}

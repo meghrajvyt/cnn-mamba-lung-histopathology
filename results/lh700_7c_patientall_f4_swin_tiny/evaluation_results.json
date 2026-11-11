@@ -1,0 +1,157 @@
+{
+  "metrics": {
+    "accuracy": 0.4344262295081967,
+    "balanced_accuracy": 0.3541914493069956,
+    "precision_macro": 0.32891810570382,
+    "precision_weighted": 0.4048163243859965,
+    "recall_macro": 0.3541914493069956,
+    "recall_weighted": 0.4344262295081967,
+    "f1_macro": 0.3343371312469052,
+    "f1_weighted": 0.41275881720079016,
+    "mcc": 0.3230753528856165,
+    "cohens_kappa": 0.32041656575442,
+    "cohens_kappa_weighted": 0.5245595518389219,
+    "ece": 0.2405278401785209,
+    "brier_score": 0.7514181733131409,
+    "auc_roc": 0.784407352136349,
+    "per_class": {
+      "aca_bd": {
+        "precision": 0.46153846153846156,
+        "recall": 0.7058823529411765,
+        "f1-score": 0.5581395348837209,
+        "support": 17,
+        "auc_roc": 0.89187675070028
+      },
+      "aca_md": {
+        "precision": 0.16666666666666666,
+        "recall": 0.2,
+        "f1-score": 0.18181818181818182,
+        "support": 15,
+        "auc_roc": 0.5339563862928349
+      },
+      "aca_pd": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 15,
+        "auc_roc": 0.7252336448598131
+      },
+      "nor": {
+        "precision": 0.7142857142857143,
+        "recall": 0.78125,
+        "f1-score": 0.746268656716418,
+        "support": 32,
+        "auc_roc": 0.9361111111111111
+      },
+      "scc_bd": {
+        "precision": 0.5625,
+        "recall": 0.42857142857142855,
+        "f1-score": 0.4864864864864865,
+        "support": 21,
+        "auc_roc": 0.7967939651107967
+      },
+      "scc_md": {
+        "precision": 0.23076923076923078,
+        "recall": 0.2727272727272727,
+        "f1-score": 0.25,
+        "support": 11,
+        "auc_roc": 0.7411957411957413
+      },
+      "scc_pd": {
+        "precision": 0.16666666666666666,
+        "recall": 0.09090909090909091,
+        "f1-score": 0.11764705882352941,
+        "support": 11,
+        "auc_roc": 0.8656838656838657
+      }
+    }
+  },
+  "confusion_matrix": [
+    [
+      12,
+      3,
+      0,
+      2,
+      0,
+      0,
+      0
+    ],
+    [
+      6,
+      3,
+      3,
+      3,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      6,
+      0,
+      4,
+      0,
+      1,
+      4
+    ],
+    [
+      3,
+      2,
+      2,
+      25,
+      0,
+      0,
+      0
+    ],
+    [
+      2,
+      3,
+      1,
+      1,
+      9,
+      5,
+      0
+    ],
+    [
+      3,
+      0,
+      0,
+      0,
+      4,
+      3,
+      1
+    ],
+    [
+      0,
+      1,
+      2,
+      0,
+      3,
+      4,
+      1
+    ]
+  ],
+  "parameter_counts": {
+    "total": 27524737,
+    "trainable": 27524737,
+    "backbone": 27524737
+  },
+  "inference_benchmark": {
+    "mean_ms": 9.542128506291192,
+    "std_ms": 0.07683970734204337,
+    "throughput_fps": 104.7984209540558
+  },
+  "checkpoint": "./checkpoints/lh700_7c_patientall_f4_swin_tiny/best_model.pth",
+  "device": "cuda",
+  "test_size": 122,
+  "num_classes": 7,
+  "class_names": [
+    "aca_bd",
+    "aca_md",
+    "aca_pd",
+    "nor",
+    "scc_bd",
+    "scc_md",
+    "scc_pd"
+  ]
+}

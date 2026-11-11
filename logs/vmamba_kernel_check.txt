@@ -1,0 +1,26 @@
+VMamba-T kernel check (tools/check_vmamba_kernel.py); differences are max |fused - reference| (relative to max |reference|)
+date: 2026-10-20 06:06 UTC
+gpu: NVIDIA A10G; torch 2.14.1+cu130; CUDA 13.0; mamba_ssm 2.3.2.post1; triton 3.8.0; timm 1.0.30
+selective_scan_cuda: /opt/pytorch/lib/python3.13/site-packages/selective_scan_cuda.cpython-313-x86_64-linux-gnu.so
+vendored vmamba.py sha256 7fb6b83cb5e047669eee57f4214dd9a09192992f9711ae33aa4eb3221bb6b67e
+scan fp32 d_inner=96 L=3136: out 7.15e-06 (6.5e-07) du 1.03e-05 (9.6e-07) ddelta 1.36e-05 (1.6e-06) dA 5.40e-04 (9.3e-06) dB 1.43e-05 (1.8e-06) dC 9.78e-06 (1.1e-06) dD 4.58e-05 (1.7e-07) ddelta_bias 8.82e-05 (2.0e-06) -> PASS
+scan fp32 d_inner=192 L=784: out 3.52e-06 (2.9e-07) du 1.06e-05 (8.6e-07) ddelta 1.48e-05 (1.5e-06) dA 6.10e-04 (2.8e-06) dB 8.94e-06 (6.8e-07) dC 9.54e-06 (8.1e-07) dD 1.91e-05 (1.5e-07) ddelta_bias 2.24e-05 (7.9e-07) -> PASS
+scan fp32 d_inner=384 L=196: out 2.15e-06 (1.7e-07) du 3.34e-06 (2.8e-07) ddelta 4.89e-06 (6.6e-07) dA 4.58e-05 (1.4e-06) dB 7.15e-06 (6.1e-07) dC 8.11e-06 (7.9e-07) dD 7.63e-06 (1.1e-07) ddelta_bias 7.15e-06 (6.2e-07) -> PASS
+scan fp32 d_inner=768 L=49: out 1.25e-06 (1.1e-07) du 2.28e-06 (2.1e-07) ddelta 1.91e-06 (3.8e-07) dA 6.68e-06 (6.3e-07) dB 1.05e-05 (1.0e-06) dC 9.06e-06 (7.8e-07) dD 4.29e-06 (1.1e-07) ddelta_bias 2.38e-06 (2.9e-07) -> PASS
+scan fp16 d_inner=96 L=3136: out 3.91e-03 (3.5e-04) du 7.81e-03 (7.3e-04) ddelta 3.91e-03 (4.6e-04) dA 2.41e-02 (4.2e-04) dB 3.91e-03 (5.0e-04) dC 3.91e-03 (4.5e-04) dD 4.99e-02 (1.8e-04) ddelta_bias 1.20e-02 (2.7e-04) -> PASS
+scan fp16 d_inner=192 L=784: out 3.88e-03 (3.2e-04) du 7.81e-03 (6.3e-04) ddelta 3.91e-03 (4.0e-04) dA 1.12e-02 (5.2e-05) dB 3.91e-03 (3.0e-04) dC 3.91e-03 (3.3e-04) dD 2.90e-02 (2.3e-04) ddelta_bias 5.66e-03 (2.0e-04) -> PASS
+scan fp16 d_inner=384 L=196: out 3.89e-03 (3.0e-04) du 7.81e-03 (6.6e-04) ddelta 3.91e-03 (5.2e-04) dA 5.43e-03 (1.6e-04) dB 3.91e-03 (3.3e-04) dC 3.91e-03 (3.8e-04) dD 1.37e-02 (2.0e-04) ddelta_bias 2.62e-03 (2.3e-04) -> PASS
+scan fp16 d_inner=768 L=49: out 3.61e-03 (3.1e-04) du 7.81e-03 (7.1e-04) ddelta 1.95e-03 (3.9e-04) dA 3.94e-03 (3.7e-04) dB 3.91e-03 (3.7e-04) dC 7.81e-03 (6.8e-04) dD 7.21e-03 (1.9e-04) ddelta_bias 1.70e-03 (2.1e-04) -> PASS
+cross_scan (Triton vs PyTorch) C=96 56x56: out 0.00e+00 (0.0e+00) grad 9.54e-07 (1.0e-07) -> PASS
+cross_merge (Triton vs PyTorch) C=96 56x56: out 9.54e-07 (9.7e-08) grad 0.00e+00 (0.0e+00) -> PASS
+cross_scan (Triton vs PyTorch) C=192 28x28: out 0.00e+00 (0.0e+00) grad 9.54e-07 (9.2e-08) -> PASS
+cross_merge (Triton vs PyTorch) C=192 28x28: out 9.54e-07 (9.0e-08) grad 0.00e+00 (0.0e+00) -> PASS
+cross_scan (Triton vs PyTorch) C=384 14x14: out 0.00e+00 (0.0e+00) grad 9.54e-07 (1.1e-07) -> PASS
+cross_merge (Triton vs PyTorch) C=384 14x14: out 9.54e-07 (1.1e-07) grad 0.00e+00 (0.0e+00) -> PASS
+cross_scan (Triton vs PyTorch) C=768 7x7: out 0.00e+00 (0.0e+00) grad 9.54e-07 (1.1e-07) -> PASS
+cross_merge (Triton vs PyTorch) C=768 7x7: out 9.54e-07 (1.1e-07) grad 0.00e+00 (0.0e+00) -> PASS
+pretrained weights: /home/ubuntu/.cache/torch/hub/checkpoints/vssm1_tiny_0230s_ckpt_epoch_264.pth sha256 d855b57224a652bc692804932f88dc3a39b9028e64be99f745a7fd6792ca672a (expected d855b57224a652bc692804932f88dc3a39b9028e64be99f745a7fd6792ca672a); loaded with strict=True
+parameters (3-class head): 29,482,371
+model fp32, TF32 off (fused vs reference), 2 images 224 px: logits 3.58e-07 (2.3e-06) d/dinput 2.27e-08 (1.2e-05) -> PASS
+smoke test, AMP fp16 training at batch 32: losses 1.1485 1.0345 1.0534 1.0357; 0.122 s/step after warm-up; peak memory 3.36 GiB -> PASS
+RESULT: PASS (tolerances {'fp32': 0.001, 'fp16': 0.01})

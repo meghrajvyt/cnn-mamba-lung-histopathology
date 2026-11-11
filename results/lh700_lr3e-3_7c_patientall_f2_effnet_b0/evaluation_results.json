@@ -1,0 +1,157 @@
+{
+  "metrics": {
+    "accuracy": 0.5578231292517006,
+    "balanced_accuracy": 0.5363982388309768,
+    "precision_macro": 0.6015192290702496,
+    "precision_weighted": 0.6276010999043069,
+    "recall_macro": 0.5363982388309768,
+    "recall_weighted": 0.5578231292517006,
+    "f1_macro": 0.5234293811846564,
+    "f1_weighted": 0.5430039955544385,
+    "mcc": 0.4885477256536479,
+    "cohens_kappa": 0.4770687390542907,
+    "cohens_kappa_weighted": 0.44228460644656,
+    "ece": 0.15795152507671695,
+    "brier_score": 0.6341021060943604,
+    "auc_roc": 0.8459529816041578,
+    "per_class": {
+      "aca_bd": {
+        "precision": 0.4166666666666667,
+        "recall": 0.5555555555555556,
+        "f1-score": 0.47619047619047616,
+        "support": 18,
+        "auc_roc": 0.8535745047372955
+      },
+      "aca_md": {
+        "precision": 0.5,
+        "recall": 0.29411764705882354,
+        "f1-score": 0.37037037037037035,
+        "support": 17,
+        "auc_roc": 0.7547511312217194
+      },
+      "aca_pd": {
+        "precision": 0.7692307692307693,
+        "recall": 0.4,
+        "f1-score": 0.5263157894736842,
+        "support": 25,
+        "auc_roc": 0.7937704918032786
+      },
+      "nor": {
+        "precision": 0.5918367346938775,
+        "recall": 0.9354838709677419,
+        "f1-score": 0.725,
+        "support": 31,
+        "auc_roc": 0.935483870967742
+      },
+      "scc_bd": {
+        "precision": 1.0,
+        "recall": 0.34782608695652173,
+        "f1-score": 0.5161290322580645,
+        "support": 23,
+        "auc_roc": 0.909186535764376
+      },
+      "scc_md": {
+        "precision": 0.4090909090909091,
+        "recall": 0.6428571428571429,
+        "f1-score": 0.5,
+        "support": 14,
+        "auc_roc": 0.7690655209452202
+      },
+      "scc_pd": {
+        "precision": 0.5238095238095238,
+        "recall": 0.5789473684210527,
+        "f1-score": 0.55,
+        "support": 19,
+        "auc_roc": 0.9058388157894737
+      }
+    }
+  },
+  "confusion_matrix": [
+    [
+      10,
+      1,
+      0,
+      7,
+      0,
+      0,
+      0
+    ],
+    [
+      3,
+      5,
+      0,
+      0,
+      0,
+      2,
+      7
+    ],
+    [
+      5,
+      1,
+      10,
+      7,
+      0,
+      1,
+      1
+    ],
+    [
+      2,
+      0,
+      0,
+      29,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      4,
+      8,
+      8,
+      2
+    ],
+    [
+      4,
+      0,
+      0,
+      1,
+      0,
+      9,
+      0
+    ],
+    [
+      0,
+      3,
+      2,
+      1,
+      0,
+      2,
+      11
+    ]
+  ],
+  "parameter_counts": {
+    "total": 4016515,
+    "trainable": 4016515,
+    "backbone": 4016515
+  },
+  "inference_benchmark": {
+    "mean_ms": 6.834604790010417,
+    "std_ms": 0.041480810144718105,
+    "throughput_fps": 146.3142391878486
+  },
+  "checkpoint": "./checkpoints/lh700_lr3e-3_7c_patientall_f2_effnet_b0/best_model.pth",
+  "device": "cuda",
+  "test_size": 147,
+  "num_classes": 7,
+  "class_names": [
+    "aca_bd",
+    "aca_md",
+    "aca_pd",
+    "nor",
+    "scc_bd",
+    "scc_md",
+    "scc_pd"
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "metrics": {
+    "accuracy": 0.43902439024390244,
+    "balanced_accuracy": 0.36173388015493274,
+    "precision_macro": 0.4072359188430617,
+    "precision_weighted": 0.49035483486702997,
+    "recall_macro": 0.36173388015493274,
+    "recall_weighted": 0.43902439024390244,
+    "f1_macro": 0.3318179978461116,
+    "f1_weighted": 0.4119680028504051,
+    "mcc": 0.35231115194010365,
+    "cohens_kappa": 0.3367976869578807,
+    "cohens_kappa_weighted": 0.5846502958100332,
+    "ece": 0.3457431783521079,
+    "brier_score": 0.8970272541046143,
+    "auc_roc": 0.6753984211236507,
+    "per_class": {
+      "aca_bd": {
+        "precision": 0.3333333333333333,
+        "recall": 0.10526315789473684,
+        "f1-score": 0.16,
+        "support": 19,
+        "auc_roc": 0.5662955465587044
+      },
+      "aca_md": {
+        "precision": 0.045454545454545456,
+        "recall": 0.09090909090909091,
+        "f1-score": 0.06060606060606061,
+        "support": 11,
+        "auc_roc": 0.5965909090909091
+      },
+      "aca_pd": {
+        "precision": 0.5,
+        "recall": 0.05263157894736842,
+        "f1-score": 0.09523809523809523,
+        "support": 19,
+        "auc_roc": 0.5025303643724697
+      },
+      "nor": {
+        "precision": 0.7435897435897436,
+        "recall": 0.9666666666666667,
+        "f1-score": 0.8405797101449275,
+        "support": 30,
+        "auc_roc": 0.9526881720430107
+      },
+      "scc_bd": {
+        "precision": 0.8666666666666667,
+        "recall": 0.65,
+        "f1-score": 0.7428571428571429,
+        "support": 20,
+        "auc_roc": 0.9572815533980582
+      },
+      "scc_md": {
+        "precision": 0.14285714285714285,
+        "recall": 0.08333333333333333,
+        "f1-score": 0.10526315789473684,
+        "support": 12,
+        "auc_roc": 0.53003003003003
+      },
+      "scc_pd": {
+        "precision": 0.21875,
+        "recall": 0.5833333333333334,
+        "f1-score": 0.3181818181818182,
+        "support": 12,
+        "auc_roc": 0.6223723723723723
+      }
+    }
+  },
+  "confusion_matrix": [
+    [
+      2,
+      17,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      3,
+      1,
+      0,
+      6,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      2,
+      1,
+      2,
+      1,
+      3,
+      10
+    ],
+    [
+      0,
+      0,
+      0,
+      29,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      2,
+      13,
+      1,
+      3
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      11
+    ],
+    [
+      0,
+      2,
+      1,
+      0,
+      0,
+      2,
+      7
+    ]
+  ],
+  "parameter_counts": {
+    "total": 27524737,
+    "trainable": 27524737,
+    "backbone": 27524737
+  },
+  "inference_benchmark": {
+    "mean_ms": 9.551720910531003,
+    "std_ms": 0.15200404585974614,
+    "throughput_fps": 104.69317616864997
+  },
+  "checkpoint": "./checkpoints/lh700_7c_patientall_f1_swin_tiny/best_model.pth",
+  "device": "cuda",
+  "test_size": 123,
+  "num_classes": 7,
+  "class_names": [
+    "aca_bd",
+    "aca_md",
+    "aca_pd",
+    "nor",
+    "scc_bd",
+    "scc_md",
+    "scc_pd"
+  ]
+}

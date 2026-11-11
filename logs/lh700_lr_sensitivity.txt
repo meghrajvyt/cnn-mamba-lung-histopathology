@@ -1,0 +1,12 @@
+# hybrid_res lr=3e-3 best_val_acc=0.7226277376613478 (pre-specified choice lr=1e-3 best_val_acc=0.7518248192585297)
+sensitivity: hybrid_res lr=1e-3 (2026-10-20 01:05 UTC); lr=3e-3 is not better
+# cnn_only lr=3e-3 best_val_acc=0.7810218995505006 (pre-specified choice lr=1e-3 best_val_acc=0.7810218995505006)
+sensitivity: cnn_only lr=1e-3 (2026-10-20 01:09 UTC); lr=3e-3 is not better
+# effnet_b0 lr=3e-3 best_val_acc=0.7664233589694448 (pre-specified choice lr=1e-3 best_val_acc=0.6934306575869121)
+sensitivity: effnet_b0 lr=3e-3 (2026-10-20 01:12 UTC); its LungHist700 runs are repeated
+# vit_small lr=3e-3 best_val_acc=0.7372262780248684 (pre-specified choice lr=1e-3 best_val_acc=0.7737226281722966)
+sensitivity: vit_small lr=1e-3 (2026-10-20 01:51 UTC); lr=3e-3 is not better
+# swin_tiny lr=3e-3 best_val_acc=0.7664233589694448 (pre-specified choice lr=1e-3 best_val_acc=0.7883211696234933)
+sensitivity: swin_tiny lr=1e-3 (2026-10-20 01:58 UTC); lr=3e-3 is not better
+# vmamba_tiny lr=3e-3 best_val_acc=0.7883211696234933 (pre-specified choice lr=1e-3 best_val_acc=0.8175182494803936)
+sensitivity: vmamba_tiny lr=1e-3 (2026-10-20 07:48 UTC); lr=3e-3 is not better

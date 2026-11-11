@@ -1,0 +1,77 @@
+{
+  "metrics": {
+    "accuracy": 0.9660944206008584,
+    "balanced_accuracy": 0.9682018977437057,
+    "precision_macro": 0.9670225366074042,
+    "precision_weighted": 0.9660930586640338,
+    "recall_macro": 0.9682018977437057,
+    "recall_weighted": 0.9660944206008584,
+    "f1_macro": 0.9675306558971539,
+    "f1_weighted": 0.9660086657070862,
+    "mcc": 0.9490673212754468,
+    "cohens_kappa": 0.9489795918367347,
+    "cohens_kappa_weighted": 0.9117141203652109,
+    "ece": 0.05571264166688717,
+    "brier_score": 0.06293949484825134,
+    "auc_roc": 0.9906422064005552,
+    "per_class": {
+      "lung_aca": {
+        "precision": 0.9651022864019254,
+        "recall": 0.9413145539906104,
+        "f1-score": 0.9530600118835413,
+        "support": 852,
+        "auc_roc": 0.9831694270267523
+      },
+      "lung_n": {
+        "precision": 0.9870875179340028,
+        "recall": 1.0,
+        "f1-score": 0.9935018050541516,
+        "support": 688,
+        "auc_roc": 1.0
+      },
+      "lung_scc": {
+        "precision": 0.9488778054862843,
+        "recall": 0.9632911392405064,
+        "f1-score": 0.9560301507537688,
+        "support": 790,
+        "auc_roc": 0.9887571921749136
+      }
+    }
+  },
+  "confusion_matrix": [
+    [
+      802,
+      9,
+      41
+    ],
+    [
+      0,
+      688,
+      0
+    ],
+    [
+      29,
+      0,
+      761
+    ]
+  ],
+  "parameter_counts": {
+    "total": 29482371,
+    "trainable": 29482371,
+    "backbone": 29482371
+  },
+  "inference_benchmark": {
+    "mean_ms": 15.312940000112576,
+    "std_ms": 0.09620774937862646,
+    "throughput_fps": 65.30424595098317
+  },
+  "checkpoint": "./checkpoints/vmamba_tiny_d4_224px_s2024/best_model.pth",
+  "device": "cuda",
+  "test_size": 2330,
+  "num_classes": 3,
+  "class_names": [
+    "lung_aca",
+    "lung_n",
+    "lung_scc"
+  ]
+}

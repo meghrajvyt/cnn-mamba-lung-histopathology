@@ -1,0 +1,6 @@
+# hybrid_res: best_val_acc=0.9787
+# hybrid_res_xattn: best_val_acc=0.9760
+selected: hybrid_res (08:39 UTC)
+# hybrid_res: best_val_acc=0.9787
+# hybrid_res_xattn: best_val_acc=0.9760
+selected: hybrid_res (15:23 UTC)

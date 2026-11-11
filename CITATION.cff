@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+title: >-
+  Explainable residual CNN-Mamba hybrid for lung cancer histopathology:
+  code, recovered LC25000 groups, splits and results
+message: >-
+  If you use this software or the data it releases, please cite it, together
+  with the datasets it analyses (LC25000, LungHist700 and LC25000-clean; see
+  README.md).
+type: software
+authors:
+  - family-names: Soni
+    given-names: Meghraj
+    affiliation: >-
+      Department of Computer Science and Engineering, School of Studies of
+      Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur, India
+    orcid: "https://orcid.org/0009-0000-9458-661X"
+  - family-names: Sharma
+    given-names: Suraj
+    affiliation: >-
+      Department of Computer Science and Engineering, School of Studies of
+      Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur, India
+    orcid: "https://orcid.org/0000-0002-9403-9373"
+repository-code: https://github.com/meghrajvyt/cnn-mamba-lung-histopathology
+abstract: >-
+  Code and released data for a leakage-controlled study of an explainable
+  residual CNN-Mamba hybrid on lung histopathology: the architecture and its
+  comparators, the recovery of the 716 LC25000 source-image groups, the
+  LungHist700 patient-level folds, the external test, the measured
+  explanation metrics (pathway attribution and deletion-insertion
+  faithfulness), the cost benchmark, the cluster-aware statistics, and the
+  scripts that regenerate every table and figure of the paper.
+keywords:
+  - lung cancer
+  - histopathology
+  - deep learning
+  - state-space models
+  - explainable artificial intelligence
+  - data leakage
+license: MIT
+version: 1.0.0
+date-released: "2026-11-11"

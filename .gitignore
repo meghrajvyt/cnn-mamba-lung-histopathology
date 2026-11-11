@@ -1,0 +1,69 @@
+# ── Datasets: not redistributed (README.md, "Data") ──
+data/lung_aca/
+data/lung_n/
+data/lung_scc/
+data/lung_colon_image_set/
+data_lh700*/
+*.jpeg
+*.jpg
+*.png
+*.tif
+*.tiff
+*.svs
+# Third-party LC25000-clean grouping (download; URL in tools/compare_groupings.py)
+lc25000_image_groups.csv
+
+# ── Training artefacts ──
+checkpoints/
+runs/
+outputs/
+*.pth
+*.pt
+*.ckpt
+events.out.tfevents.*
+batch_config.json
+aws_results*/
+
+# ── Logs: only the records cited in the paper are tracked ──
+logs/*
+!logs/selected_hybrid.txt
+!logs/lh700_lr_selection.txt
+!logs/lh700_lr_selection_vmamba.txt
+!logs/lh700_lr_sensitivity.txt
+!logs/vmamba_kernel_check.txt
+!logs/xai_lh700_plan.txt
+
+# ── Results: the metrics, per-image predictions, explanation scores, tables
+# and figures behind the paper are tracked; the rest is regenerable ──
+results/**
+!results/**/
+!results/**/evaluation_results.json
+!results/**/xai_metrics.json
+!results/**/predictions.npz
+!results/**/xai_per_sample.npz
+!results/_paper/*.json
+!results/_paper/*.md
+!results/_paper/figures/*.pdf
+!results/_efficiency/*.json
+results/**/xai_heatmaps/
+
+# ── Python ──
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# ── Secrets ──
+.env
+kaggle.json
+*.key
+*.pem
+secrets.*
+
+# ── OS ──
+.DS_Store
+Thumbs.db

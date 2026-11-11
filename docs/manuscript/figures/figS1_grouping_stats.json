@@ -1,0 +1,70 @@
+{
+ "threshold": 15,
+ "per_class": {
+  "lung_aca": {
+   "groups": 232,
+   "size_median": 20.0,
+   "size_min": 1,
+   "size_max": 66,
+   "singletons": 2,
+   "sibling_inliers": {
+    "mean": 172.16,
+    "median": 105.0,
+    "frac_ge_thresh": 0.9533333333333334
+   },
+   "non_sibling_inliers": {
+    "mean": 0.7266666666666667,
+    "max": 4,
+    "frac_ge_thresh": 0.0
+   }
+  },
+  "lung_n": {
+   "groups": 244,
+   "size_median": 20.0,
+   "size_min": 1,
+   "size_max": 56,
+   "singletons": 4,
+   "sibling_inliers": {
+    "mean": 166.51333333333332,
+    "median": 125.5,
+    "frac_ge_thresh": 0.9066666666666666
+   },
+   "non_sibling_inliers": {
+    "mean": 1.7066666666666668,
+    "max": 9,
+    "frac_ge_thresh": 0.0
+   }
+  },
+  "lung_scc": {
+   "groups": 240,
+   "size_median": 20.0,
+   "size_min": 1,
+   "size_max": 54,
+   "singletons": 5,
+   "sibling_inliers": {
+    "mean": 146.96,
+    "median": 83.0,
+    "frac_ge_thresh": 0.9133333333333333
+   },
+   "non_sibling_inliers": {
+    "mean": 0.42,
+    "max": 9,
+    "frac_ge_thresh": 0.0
+   }
+  }
+ },
+ "sibling": {
+  "n": 450,
+  "mean": 161.87777777777777,
+  "median": 102.0,
+  "max": 600,
+  "frac_ge_thresh": 0.9244444444444444
+ },
+ "non-sibling": {
+  "n": 450,
+  "mean": 0.9511111111111111,
+  "median": 0.0,
+  "max": 9,
+  "frac_ge_thresh": 0.0
+ }
+}

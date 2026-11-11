@@ -1,0 +1,48 @@
+{
+  "device": "cuda",
+  "gpu": "NVIDIA A10G",
+  "torch": "2.14.1+cu130",
+  "image_size": 224,
+  "amp_fp16": true,
+  "models": {
+    "hybrid_res": {
+      "params": 9550207,
+      "gflops": 3.004,
+      "latency_b1_ms": {
+        "median": 92.247,
+        "iqr": [
+          91.785,
+          93.294
+        ]
+      },
+      "throughput_b64": 72.8,
+      "peak_mem_b64_mb": 1188.5
+    },
+    "swin_tiny": {
+      "params": 27521661,
+      "gflops": 8.98,
+      "latency_b1_ms": {
+        "median": 10.935,
+        "iqr": [
+          10.905,
+          10.966
+        ]
+      },
+      "throughput_b64": 1300.0,
+      "peak_mem_b64_mb": 966.7
+    },
+    "vmamba_tiny": {
+      "params": 29482371,
+      "gflops": 9.624,
+      "latency_b1_ms": {
+        "median": 18.208,
+        "iqr": [
+          18.18,
+          18.249
+        ]
+      },
+      "throughput_b64": 948.7,
+      "peak_mem_b64_mb": 1144.6
+    }
+  }
+}

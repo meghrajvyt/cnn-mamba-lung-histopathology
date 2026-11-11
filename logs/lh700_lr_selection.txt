@@ -1,0 +1,30 @@
+# hybrid_res lr=1e-4 best_val_acc=0.7153284688935663
+# hybrid_res lr=1e-3 best_val_acc=0.7518248192585297
+selected: hybrid_res lr=1e-3 (16:59 UTC)
+# cnn_only lr=1e-4 best_val_acc=0.7080291988205736
+# cnn_only lr=1e-3 best_val_acc=0.7810218995505006
+selected: cnn_only lr=1e-3 (17:06 UTC)
+# effnet_b0 lr=1e-4 best_val_acc=0.5109489068497707
+# effnet_b0 lr=1e-3 best_val_acc=0.6934306575869121
+selected: effnet_b0 lr=1e-3 (17:13 UTC)
+# vit_small lr=1e-4 best_val_acc=0.7372262791125443
+# vit_small lr=1e-3 best_val_acc=0.7737226281722966
+selected: vit_small lr=1e-3 (17:24 UTC)
+# swin_tiny lr=1e-4 best_val_acc=0.7153284684584958
+# swin_tiny lr=1e-3 best_val_acc=0.7883211696234933
+selected: swin_tiny lr=1e-3 (17:38 UTC)
+# hybrid_res lr=1e-4 best_val_acc=0.7153284688935663
+# hybrid_res lr=1e-3 best_val_acc=0.7518248192585297
+selected: hybrid_res lr=1e-3 (23:54 UTC)
+# cnn_only lr=1e-4 best_val_acc=0.7080291988205736
+# cnn_only lr=1e-3 best_val_acc=0.7810218995505006
+selected: cnn_only lr=1e-3 (23:54 UTC)
+# effnet_b0 lr=1e-4 best_val_acc=0.5109489068497707
+# effnet_b0 lr=1e-3 best_val_acc=0.6934306575869121
+selected: effnet_b0 lr=1e-3 (23:55 UTC)
+# vit_small lr=1e-4 best_val_acc=0.7372262791125443
+# vit_small lr=1e-3 best_val_acc=0.7737226281722966
+selected: vit_small lr=1e-3 (23:55 UTC)
+# swin_tiny lr=1e-4 best_val_acc=0.7153284684584958
+# swin_tiny lr=1e-3 best_val_acc=0.7883211696234933
+selected: swin_tiny lr=1e-3 (23:55 UTC)

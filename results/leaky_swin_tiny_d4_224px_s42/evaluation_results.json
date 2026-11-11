@@ -1,0 +1,77 @@
+{
+  "metrics": {
+    "accuracy": 1.0,
+    "balanced_accuracy": 1.0,
+    "precision_macro": 1.0,
+    "precision_weighted": 1.0,
+    "recall_macro": 1.0,
+    "recall_weighted": 1.0,
+    "f1_macro": 1.0,
+    "f1_weighted": 1.0,
+    "mcc": 1.0,
+    "cohens_kappa": 1.0,
+    "cohens_kappa_weighted": 1.0,
+    "ece": 0.06316964017820592,
+    "brier_score": 0.006059893406927586,
+    "auc_roc": 1.0,
+    "per_class": {
+      "lung_aca": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 750,
+        "auc_roc": 1.0
+      },
+      "lung_n": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 750,
+        "auc_roc": 1.0
+      },
+      "lung_scc": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 751,
+        "auc_roc": 1.0
+      }
+    }
+  },
+  "confusion_matrix": [
+    [
+      750,
+      0,
+      0
+    ],
+    [
+      0,
+      750,
+      0
+    ],
+    [
+      0,
+      0,
+      751
+    ]
+  ],
+  "parameter_counts": {
+    "total": 27521661,
+    "trainable": 27521661,
+    "backbone": 27521661
+  },
+  "inference_benchmark": {
+    "mean_ms": 9.646813970757648,
+    "std_ms": 0.07293971918311945,
+    "throughput_fps": 103.66116761775405
+  },
+  "checkpoint": "./checkpoints/leaky_swin_tiny_d4_224px_s42/best_model.pth",
+  "device": "cuda",
+  "test_size": 2251,
+  "num_classes": 3,
+  "class_names": [
+    "lung_aca",
+    "lung_n",
+    "lung_scc"
+  ]
+}

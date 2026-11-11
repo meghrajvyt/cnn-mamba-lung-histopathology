@@ -1,0 +1,601 @@
+{
+  "run": "hybrid_res_d4_224px_s1337",
+  "arch": "hybrid_res",
+  "checkpoint": "checkpoints/hybrid_res_d4_224px_s1337/best_model.pth",
+  "data_root": "./data",
+  "split_type": "grouped",
+  "test_size": 2195,
+  "class_names": [
+    "lung_aca",
+    "lung_n",
+    "lung_scc"
+  ],
+  "settings": {
+    "num_samples": 300,
+    "steps": 25,
+    "deletion_baseline": "blur",
+    "random_grid": 14,
+    "seed": 0,
+    "include_inverse": false
+  },
+  "pathway_attribution": {
+    "n": 2195,
+    "acc_full": 0.9562642369020501,
+    "acc_mamba_ablated": 0.8624145785876993,
+    "acc_change_when_ablated": -0.09384965831435077,
+    "predictions_flipped": 324,
+    "mcnemar_full_vs_ablated": {
+      "n01": 59,
+      "n10": 265,
+      "statistic": 129.70679012345678,
+      "p_value": 4.7500811190395824e-30,
+      "test": "chi-square with continuity correction",
+      "odds_ratio": 4.491525423728813
+    },
+    "delta_to_cnn_norm_ratio": {
+      "mean": 1.0624701976776123,
+      "sd": 0.2568358778953552,
+      "ci95": [
+        1.0517970323562622,
+        1.0728164911270142
+      ],
+      "median": 1.0907588005065918
+    },
+    "delta_cnn_cosine": {
+      "mean": 0.1413034349679947,
+      "sd": 0.08115632832050323,
+      "ci95": [
+        0.13796284794807434,
+        0.144616961479187
+      ],
+      "median": 0.1489357203245163
+    },
+    "pred_prob_drop_when_ablated": {
+      "mean": 0.3995247781276703,
+      "sd": 0.09587234258651733,
+      "ci95": [
+        0.3956463932991028,
+        0.4034753143787384
+      ],
+      "median": 0.39877384901046753
+    },
+    "ratio_correct_vs_incorrect": {
+      "correct": 1.084420084953308,
+      "incorrect": 0.5825449228286743
+    },
+    "per_class": {
+      "0": {
+        "n": 772,
+        "ratio_mean": 0.9661386013031006,
+        "acc_full": 0.9015544041450777,
+        "acc_ablated": 0.9352331606217616
+      },
+      "1": {
+        "n": 726,
+        "ratio_mean": 1.2938932180404663,
+        "acc_full": 1.0,
+        "acc_ablated": 0.8884297520661157
+      },
+      "2": {
+        "n": 697,
+        "ratio_mean": 0.9281155467033386,
+        "acc_full": 0.9713055954088953,
+        "acc_ablated": 0.7546628407460545
+      }
+    }
+  },
+  "faithfulness": {
+    "n": 300,
+    "accuracy_on_subset": 0.9533333333333334,
+    "maps": {
+      "cnn": {
+        "deletion": {
+          "mean": 0.7366006970405579,
+          "sd": 0.222334086894989,
+          "ci95": [
+            0.7105200886726379,
+            0.7615715265274048
+          ],
+          "median": 0.8590324521064758,
+          "minus_random": {
+            "mean": -0.008038339205086231,
+            "sd": 0.11674366891384125,
+            "ci95": [
+              -0.02123563550412655,
+              0.004941581282764673
+            ],
+            "median": -0.0016002953052520752
+          },
+          "wilcoxon_p_vs_random": 0.11779637634754181
+        },
+        "insertion": {
+          "mean": 0.7556288838386536,
+          "sd": 0.21082982420921326,
+          "ci95": [
+            0.730867862701416,
+            0.7796187400817871
+          ],
+          "median": 0.8721849918365479,
+          "minus_random": {
+            "mean": 0.014083614572882652,
+            "sd": 0.14802174270153046,
+            "ci95": [
+              -0.0025515160523355007,
+              0.0310628954321146
+            ],
+            "median": 0.006174623966217041
+          },
+          "wilcoxon_p_vs_random": 0.0008368280832655728
+        },
+        "ins_minus_del": {
+          "mean": 0.019028183072805405,
+          "sd": 0.09619831293821335,
+          "ci95": [
+            0.007824746891856194,
+            0.03036067634820938
+          ],
+          "median": 0.007508605718612671,
+          "minus_random": {
+            "mean": 0.02212195284664631,
+            "sd": 0.1315217763185501,
+            "ci95": [
+              0.007249787449836731,
+              0.03747740015387535
+            ],
+            "median": 0.00830996036529541
+          },
+          "wilcoxon_p_vs_random": 1.3340215446078219e-05
+        }
+      },
+      "mamba": {
+        "deletion": {
+          "mean": 0.7057141065597534,
+          "sd": 0.25081196427345276,
+          "ci95": [
+            0.6773407459259033,
+            0.7337476015090942
+          ],
+          "median": 0.841838002204895,
+          "minus_random": {
+            "mean": -0.03892494738101959,
+            "sd": 0.09773819148540497,
+            "ci95": [
+              -0.04987550899386406,
+              -0.028237860649824142
+            ],
+            "median": -0.006134063005447388
+          },
+          "wilcoxon_p_vs_random": 4.514929977870704e-15
+        },
+        "insertion": {
+          "mean": 0.7790074944496155,
+          "sd": 0.17965391278266907,
+          "ci95": [
+            0.7578002214431763,
+            0.7987490892410278
+          ],
+          "median": 0.8766616582870483,
+          "minus_random": {
+            "mean": 0.037462268024683,
+            "sd": 0.1160319596529007,
+            "ci95": [
+              0.024473097175359726,
+              0.05096433684229851
+            ],
+            "median": 0.004746824502944946
+          },
+          "wilcoxon_p_vs_random": 1.2935134907632317e-10
+        },
+        "ins_minus_del": {
+          "mean": 0.07329344749450684,
+          "sd": 0.14092609286308289,
+          "ci95": [
+            0.057270899415016174,
+            0.08991333842277527
+          ],
+          "median": 0.010641038417816162,
+          "minus_random": {
+            "mean": 0.07638721168041229,
+            "sd": 0.16932475566864014,
+            "ci95": [
+              0.05744247883558273,
+              0.09625431150197983
+            ],
+            "median": 0.012901932001113892
+          },
+          "wilcoxon_p_vs_random": 1.30997709786989e-20
+        }
+      },
+      "combined": {
+        "deletion": {
+          "mean": 0.7195641994476318,
+          "sd": 0.23839512467384338,
+          "ci95": [
+            0.6918620467185974,
+            0.7461486458778381
+          ],
+          "median": 0.843664288520813,
+          "minus_random": {
+            "mean": -0.02507476694881916,
+            "sd": 0.09955408424139023,
+            "ci95": [
+              -0.03644036874175072,
+              -0.013809474185109138
+            ],
+            "median": -0.003708288073539734
+          },
+          "wilcoxon_p_vs_random": 1.2189223070890876e-06
+        },
+        "insertion": {
+          "mean": 0.7704673409461975,
+          "sd": 0.18779237568378448,
+          "ci95": [
+            0.7485622763633728,
+            0.7909858226776123
+          ],
+          "median": 0.878880500793457,
+          "minus_random": {
+            "mean": 0.02892211265861988,
+            "sd": 0.1296801120042801,
+            "ci95": [
+              0.014432400465011597,
+              0.04390576109290123
+            ],
+            "median": 0.006947129964828491
+          },
+          "wilcoxon_p_vs_random": 3.5166458189905825e-08
+        },
+        "ins_minus_del": {
+          "mean": 0.050903111696243286,
+          "sd": 0.12252627313137054,
+          "ci95": [
+            0.036989618092775345,
+            0.0651743933558464
+          ],
+          "median": 0.010253697633743286,
+          "minus_random": {
+            "mean": 0.05399687960743904,
+            "sd": 0.15222814679145813,
+            "ci95": [
+              0.036817215383052826,
+              0.07144660502672195
+            ],
+            "median": 0.009765207767486572
+          },
+          "wilcoxon_p_vs_random": 8.755558777995276e-12
+        }
+      },
+      "random": {
+        "deletion": {
+          "mean": 0.7446390390396118,
+          "sd": 0.21267648041248322,
+          "ci95": [
+            0.7204803824424744,
+            0.7685355544090271
+          ],
+          "median": 0.8473682403564453
+        },
+        "insertion": {
+          "mean": 0.7415453195571899,
+          "sd": 0.21562714874744415,
+          "ci95": [
+            0.7169744968414307,
+            0.7656242847442627
+          ],
+          "median": 0.8573274612426758
+        },
+        "ins_minus_del": {
+          "mean": -0.003093771170824766,
+          "sd": 0.08051072806119919,
+          "ci95": [
+            -0.012121078558266163,
+            0.0060858698561787605
+          ],
+          "median": -0.0008791089057922363
+        }
+      }
+    }
+  },
+  "faithfulness_images": [
+    "lung_aca/lungaca1006.jpeg",
+    "lung_aca/lungaca1020.jpeg",
+    "lung_aca/lungaca1026.jpeg",
+    "lung_aca/lungaca1094.jpeg",
+    "lung_aca/lungaca1109.jpeg",
+    "lung_aca/lungaca1146.jpeg",
+    "lung_aca/lungaca1151.jpeg",
+    "lung_aca/lungaca1162.jpeg",
+    "lung_aca/lungaca1233.jpeg",
+    "lung_aca/lungaca1287.jpeg",
+    "lung_aca/lungaca1292.jpeg",
+    "lung_aca/lungaca1310.jpeg",
+    "lung_aca/lungaca1345.jpeg",
+    "lung_aca/lungaca1347.jpeg",
+    "lung_aca/lungaca1497.jpeg",
+    "lung_aca/lungaca1542.jpeg",
+    "lung_aca/lungaca1686.jpeg",
+    "lung_aca/lungaca1702.jpeg",
+    "lung_aca/lungaca1975.jpeg",
+    "lung_aca/lungaca2027.jpeg",
+    "lung_aca/lungaca2039.jpeg",
+    "lung_aca/lungaca2125.jpeg",
+    "lung_aca/lungaca2174.jpeg",
+    "lung_aca/lungaca2246.jpeg",
+    "lung_aca/lungaca2265.jpeg",
+    "lung_aca/lungaca2386.jpeg",
+    "lung_aca/lungaca2440.jpeg",
+    "lung_aca/lungaca2485.jpeg",
+    "lung_aca/lungaca2548.jpeg",
+    "lung_aca/lungaca2599.jpeg",
+    "lung_aca/lungaca2613.jpeg",
+    "lung_aca/lungaca2646.jpeg",
+    "lung_aca/lungaca2662.jpeg",
+    "lung_aca/lungaca2678.jpeg",
+    "lung_aca/lungaca2756.jpeg",
+    "lung_aca/lungaca276.jpeg",
+    "lung_aca/lungaca2775.jpeg",
+    "lung_aca/lungaca285.jpeg",
+    "lung_aca/lungaca2869.jpeg",
+    "lung_aca/lungaca2959.jpeg",
+    "lung_aca/lungaca3071.jpeg",
+    "lung_aca/lungaca3143.jpeg",
+    "lung_aca/lungaca3145.jpeg",
+    "lung_aca/lungaca3150.jpeg",
+    "lung_aca/lungaca3222.jpeg",
+    "lung_aca/lungaca3281.jpeg",
+    "lung_aca/lungaca3300.jpeg",
+    "lung_aca/lungaca3326.jpeg",
+    "lung_aca/lungaca3327.jpeg",
+    "lung_aca/lungaca3342.jpeg",
+    "lung_aca/lungaca3343.jpeg",
+    "lung_aca/lungaca3345.jpeg",
+    "lung_aca/lungaca3437.jpeg",
+    "lung_aca/lungaca3531.jpeg",
+    "lung_aca/lungaca3570.jpeg",
+    "lung_aca/lungaca3576.jpeg",
+    "lung_aca/lungaca3593.jpeg",
+    "lung_aca/lungaca3632.jpeg",
+    "lung_aca/lungaca3681.jpeg",
+    "lung_aca/lungaca3684.jpeg",
+    "lung_aca/lungaca3720.jpeg",
+    "lung_aca/lungaca3812.jpeg",
+    "lung_aca/lungaca3814.jpeg",
+    "lung_aca/lungaca3876.jpeg",
+    "lung_aca/lungaca389.jpeg",
+    "lung_aca/lungaca3910.jpeg",
+    "lung_aca/lungaca401.jpeg",
+    "lung_aca/lungaca402.jpeg",
+    "lung_aca/lungaca4045.jpeg",
+    "lung_aca/lungaca4051.jpeg",
+    "lung_aca/lungaca4075.jpeg",
+    "lung_aca/lungaca41.jpeg",
+    "lung_aca/lungaca4179.jpeg",
+    "lung_aca/lungaca4214.jpeg",
+    "lung_aca/lungaca4232.jpeg",
+    "lung_aca/lungaca4239.jpeg",
+    "lung_aca/lungaca4264.jpeg",
+    "lung_aca/lungaca4272.jpeg",
+    "lung_aca/lungaca4333.jpeg",
+    "lung_aca/lungaca4369.jpeg",
+    "lung_aca/lungaca4403.jpeg",
+    "lung_aca/lungaca4446.jpeg",
+    "lung_aca/lungaca449.jpeg",
+    "lung_aca/lungaca454.jpeg",
+    "lung_aca/lungaca4584.jpeg",
+    "lung_aca/lungaca4609.jpeg",
+    "lung_aca/lungaca4692.jpeg",
+    "lung_aca/lungaca4696.jpeg",
+    "lung_aca/lungaca4761.jpeg",
+    "lung_aca/lungaca4764.jpeg",
+    "lung_aca/lungaca477.jpeg",
+    "lung_aca/lungaca4886.jpeg",
+    "lung_aca/lungaca4892.jpeg",
+    "lung_aca/lungaca4940.jpeg",
+    "lung_aca/lungaca515.jpeg",
+    "lung_aca/lungaca569.jpeg",
+    "lung_aca/lungaca649.jpeg",
+    "lung_aca/lungaca689.jpeg",
+    "lung_aca/lungaca797.jpeg",
+    "lung_aca/lungaca861.jpeg",
+    "lung_n/lungn1079.jpeg",
+    "lung_n/lungn1131.jpeg",
+    "lung_n/lungn1176.jpeg",
+    "lung_n/lungn1180.jpeg",
+    "lung_n/lungn1201.jpeg",
+    "lung_n/lungn1282.jpeg",
+    "lung_n/lungn1283.jpeg",
+    "lung_n/lungn1298.jpeg",
+    "lung_n/lungn1400.jpeg",
+    "lung_n/lungn1402.jpeg",
+    "lung_n/lungn1595.jpeg",
+    "lung_n/lungn1609.jpeg",
+    "lung_n/lungn1664.jpeg",
+    "lung_n/lungn167.jpeg",
+    "lung_n/lungn1703.jpeg",
+    "lung_n/lungn178.jpeg",
+    "lung_n/lungn1889.jpeg",
+    "lung_n/lungn1912.jpeg",
+    "lung_n/lungn1932.jpeg",
+    "lung_n/lungn1966.jpeg",
+    "lung_n/lungn2008.jpeg",
+    "lung_n/lungn2034.jpeg",
+    "lung_n/lungn2124.jpeg",
+    "lung_n/lungn2152.jpeg",
+    "lung_n/lungn2175.jpeg",
+    "lung_n/lungn2192.jpeg",
+    "lung_n/lungn2244.jpeg",
+    "lung_n/lungn234.jpeg",
+    "lung_n/lungn2365.jpeg",
+    "lung_n/lungn2367.jpeg",
+    "lung_n/lungn2401.jpeg",
+    "lung_n/lungn2526.jpeg",
+    "lung_n/lungn270.jpeg",
+    "lung_n/lungn2734.jpeg",
+    "lung_n/lungn2786.jpeg",
+    "lung_n/lungn2817.jpeg",
+    "lung_n/lungn2824.jpeg",
+    "lung_n/lungn2888.jpeg",
+    "lung_n/lungn2967.jpeg",
+    "lung_n/lungn2969.jpeg",
+    "lung_n/lungn3027.jpeg",
+    "lung_n/lungn3032.jpeg",
+    "lung_n/lungn3089.jpeg",
+    "lung_n/lungn3118.jpeg",
+    "lung_n/lungn3362.jpeg",
+    "lung_n/lungn3380.jpeg",
+    "lung_n/lungn3449.jpeg",
+    "lung_n/lungn3474.jpeg",
+    "lung_n/lungn3512.jpeg",
+    "lung_n/lungn3539.jpeg",
+    "lung_n/lungn3623.jpeg",
+    "lung_n/lungn3644.jpeg",
+    "lung_n/lungn365.jpeg",
+    "lung_n/lungn3693.jpeg",
+    "lung_n/lungn3717.jpeg",
+    "lung_n/lungn3742.jpeg",
+    "lung_n/lungn3786.jpeg",
+    "lung_n/lungn3801.jpeg",
+    "lung_n/lungn39.jpeg",
+    "lung_n/lungn3922.jpeg",
+    "lung_n/lungn4094.jpeg",
+    "lung_n/lungn4099.jpeg",
+    "lung_n/lungn4175.jpeg",
+    "lung_n/lungn4208.jpeg",
+    "lung_n/lungn421.jpeg",
+    "lung_n/lungn427.jpeg",
+    "lung_n/lungn4279.jpeg",
+    "lung_n/lungn4308.jpeg",
+    "lung_n/lungn4454.jpeg",
+    "lung_n/lungn4503.jpeg",
+    "lung_n/lungn4505.jpeg",
+    "lung_n/lungn4511.jpeg",
+    "lung_n/lungn4583.jpeg",
+    "lung_n/lungn4608.jpeg",
+    "lung_n/lungn4645.jpeg",
+    "lung_n/lungn4727.jpeg",
+    "lung_n/lungn4748.jpeg",
+    "lung_n/lungn4749.jpeg",
+    "lung_n/lungn4750.jpeg",
+    "lung_n/lungn4765.jpeg",
+    "lung_n/lungn4811.jpeg",
+    "lung_n/lungn4871.jpeg",
+    "lung_n/lungn4880.jpeg",
+    "lung_n/lungn4897.jpeg",
+    "lung_n/lungn573.jpeg",
+    "lung_n/lungn587.jpeg",
+    "lung_n/lungn671.jpeg",
+    "lung_n/lungn688.jpeg",
+    "lung_n/lungn691.jpeg",
+    "lung_n/lungn701.jpeg",
+    "lung_n/lungn702.jpeg",
+    "lung_n/lungn708.jpeg",
+    "lung_n/lungn747.jpeg",
+    "lung_n/lungn839.jpeg",
+    "lung_n/lungn840.jpeg",
+    "lung_n/lungn915.jpeg",
+    "lung_n/lungn930.jpeg",
+    "lung_n/lungn936.jpeg",
+    "lung_n/lungn953.jpeg",
+    "lung_n/lungn983.jpeg",
+    "lung_scc/lungscc1110.jpeg",
+    "lung_scc/lungscc1168.jpeg",
+    "lung_scc/lungscc1175.jpeg",
+    "lung_scc/lungscc1216.jpeg",
+    "lung_scc/lungscc1229.jpeg",
+    "lung_scc/lungscc1268.jpeg",
+    "lung_scc/lungscc1284.jpeg",
+    "lung_scc/lungscc129.jpeg",
+    "lung_scc/lungscc1310.jpeg",
+    "lung_scc/lungscc1326.jpeg",
+    "lung_scc/lungscc1373.jpeg",
+    "lung_scc/lungscc142.jpeg",
+    "lung_scc/lungscc1455.jpeg",
+    "lung_scc/lungscc1472.jpeg",
+    "lung_scc/lungscc1499.jpeg",
+    "lung_scc/lungscc1602.jpeg",
+    "lung_scc/lungscc1624.jpeg",
+    "lung_scc/lungscc1639.jpeg",
+    "lung_scc/lungscc1692.jpeg",
+    "lung_scc/lungscc1769.jpeg",
+    "lung_scc/lungscc1822.jpeg",
+    "lung_scc/lungscc1837.jpeg",
+    "lung_scc/lungscc1892.jpeg",
+    "lung_scc/lungscc1917.jpeg",
+    "lung_scc/lungscc2029.jpeg",
+    "lung_scc/lungscc2042.jpeg",
+    "lung_scc/lungscc2076.jpeg",
+    "lung_scc/lungscc2170.jpeg",
+    "lung_scc/lungscc2181.jpeg",
+    "lung_scc/lungscc2239.jpeg",
+    "lung_scc/lungscc2302.jpeg",
+    "lung_scc/lungscc2368.jpeg",
+    "lung_scc/lungscc2458.jpeg",
+    "lung_scc/lungscc2491.jpeg",
+    "lung_scc/lungscc2549.jpeg",
+    "lung_scc/lungscc29.jpeg",
+    "lung_scc/lungscc2912.jpeg",
+    "lung_scc/lungscc2933.jpeg",
+    "lung_scc/lungscc2936.jpeg",
+    "lung_scc/lungscc2942.jpeg",
+    "lung_scc/lungscc2992.jpeg",
+    "lung_scc/lungscc3042.jpeg",
+    "lung_scc/lungscc3071.jpeg",
+    "lung_scc/lungscc311.jpeg",
+    "lung_scc/lungscc3116.jpeg",
+    "lung_scc/lungscc3143.jpeg",
+    "lung_scc/lungscc3208.jpeg",
+    "lung_scc/lungscc3216.jpeg",
+    "lung_scc/lungscc3224.jpeg",
+    "lung_scc/lungscc3320.jpeg",
+    "lung_scc/lungscc3396.jpeg",
+    "lung_scc/lungscc3412.jpeg",
+    "lung_scc/lungscc3462.jpeg",
+    "lung_scc/lungscc354.jpeg",
+    "lung_scc/lungscc356.jpeg",
+    "lung_scc/lungscc3617.jpeg",
+    "lung_scc/lungscc3649.jpeg",
+    "lung_scc/lungscc3692.jpeg",
+    "lung_scc/lungscc378.jpeg",
+    "lung_scc/lungscc3803.jpeg",
+    "lung_scc/lungscc3821.jpeg",
+    "lung_scc/lungscc3833.jpeg",
+    "lung_scc/lungscc3884.jpeg",
+    "lung_scc/lungscc39.jpeg",
+    "lung_scc/lungscc3908.jpeg",
+    "lung_scc/lungscc3928.jpeg",
+    "lung_scc/lungscc3964.jpeg",
+    "lung_scc/lungscc4020.jpeg",
+    "lung_scc/lungscc4052.jpeg",
+    "lung_scc/lungscc4080.jpeg",
+    "lung_scc/lungscc4089.jpeg",
+    "lung_scc/lungscc4383.jpeg",
+    "lung_scc/lungscc4418.jpeg",
+    "lung_scc/lungscc4494.jpeg",
+    "lung_scc/lungscc452.jpeg",
+    "lung_scc/lungscc4549.jpeg",
+    "lung_scc/lungscc4572.jpeg",
+    "lung_scc/lungscc4610.jpeg",
+    "lung_scc/lungscc4611.jpeg",
+    "lung_scc/lungscc4619.jpeg",
+    "lung_scc/lungscc4686.jpeg",
+    "lung_scc/lungscc4720.jpeg",
+    "lung_scc/lungscc4722.jpeg",
+    "lung_scc/lungscc4732.jpeg",
+    "lung_scc/lungscc4750.jpeg",
+    "lung_scc/lungscc4767.jpeg",
+    "lung_scc/lungscc4778.jpeg",
+    "lung_scc/lungscc4888.jpeg",
+    "lung_scc/lungscc4923.jpeg",
+    "lung_scc/lungscc4941.jpeg",
+    "lung_scc/lungscc562.jpeg",
+    "lung_scc/lungscc635.jpeg",
+    "lung_scc/lungscc647.jpeg",
+    "lung_scc/lungscc695.jpeg",
+    "lung_scc/lungscc699.jpeg",
+    "lung_scc/lungscc80.jpeg",
+    "lung_scc/lungscc858.jpeg",
+    "lung_scc/lungscc860.jpeg",
+    "lung_scc/lungscc93.jpeg",
+    "lung_scc/lungscc991.jpeg"
+  ]
+}

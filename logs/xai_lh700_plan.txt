@@ -1,0 +1,4 @@
+date=2026-10-13 03:13 UTC
+timing_images=12 timing_seconds=43 steps=25
+estimated_minutes_all_images=124 budget_minutes=300
+num_samples=100000  # 100000 = every test image of the fold

@@ -1,0 +1,4839 @@
+{
+ "aca_bd/aca_bd_40x_901.jpg": {
+  "patient_id": 1,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_902.jpg": {
+  "patient_id": 1,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_903.jpg": {
+  "patient_id": 1,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_904.jpg": {
+  "patient_id": 1,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_905.jpg": {
+  "patient_id": 1,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_20x_901.jpg": {
+  "patient_id": 1,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_903.jpg": {
+  "patient_id": 1,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_904.jpg": {
+  "patient_id": 1,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_905.jpg": {
+  "patient_id": 1,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_40x_901.jpg": {
+  "patient_id": 2,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_902.jpg": {
+  "patient_id": 2,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_903.jpg": {
+  "patient_id": 2,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_904.jpg": {
+  "patient_id": 2,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_905.jpg": {
+  "patient_id": 2,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_20x_901.jpg": {
+  "patient_id": 3,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_20x_902.jpg": {
+  "patient_id": 3,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_20x_903.jpg": {
+  "patient_id": 2,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_20x_904.jpg": {
+  "patient_id": 2,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_20x_905.jpg": {
+  "patient_id": 2,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_40x_901.jpg": {
+  "patient_id": 4,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_40x_902.jpg": {
+  "patient_id": 4,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_40x_903.jpg": {
+  "patient_id": 4,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_40x_904.jpg": {
+  "patient_id": 4,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_40x_905.jpg": {
+  "patient_id": 4,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_20x_901.jpg": {
+  "patient_id": 4,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_902.jpg": {
+  "patient_id": 4,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_903.jpg": {
+  "patient_id": 4,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_904.jpg": {
+  "patient_id": 4,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_905.jpg": {
+  "patient_id": 4,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_0.jpg": {
+  "patient_id": 5,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_1.jpg": {
+  "patient_id": 5,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_10.jpg": {
+  "patient_id": 5,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_12.jpg": {
+  "patient_id": 6,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_13.jpg": {
+  "patient_id": 6,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_14.jpg": {
+  "patient_id": 6,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_15.jpg": {
+  "patient_id": 6,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_16.jpg": {
+  "patient_id": 6,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_17.jpg": {
+  "patient_id": 6,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_18.jpg": {
+  "patient_id": 6,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_19.jpg": {
+  "patient_id": 6,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_2.jpg": {
+  "patient_id": 5,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_20.jpg": {
+  "patient_id": 6,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_21.jpg": {
+  "patient_id": 7,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_22.jpg": {
+  "patient_id": 7,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_23.jpg": {
+  "patient_id": 7,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_24.jpg": {
+  "patient_id": 7,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_25.jpg": {
+  "patient_id": 7,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_26.jpg": {
+  "patient_id": 7,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_27.jpg": {
+  "patient_id": 7,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_28.jpg": {
+  "patient_id": 7,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_29.jpg": {
+  "patient_id": 7,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_3.jpg": {
+  "patient_id": 5,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_30.jpg": {
+  "patient_id": 7,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_31.jpg": {
+  "patient_id": 7,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_32.jpg": {
+  "patient_id": 7,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_33.jpg": {
+  "patient_id": 7,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_34.jpg": {
+  "patient_id": 7,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_35.jpg": {
+  "patient_id": 7,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_37.jpg": {
+  "patient_id": 7,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_38.jpg": {
+  "patient_id": 7,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_39.jpg": {
+  "patient_id": 7,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_4.jpg": {
+  "patient_id": 5,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_40.jpg": {
+  "patient_id": 7,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_42.jpg": {
+  "patient_id": 8,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_5.jpg": {
+  "patient_id": 5,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_6.jpg": {
+  "patient_id": 5,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_60.jpg": {
+  "patient_id": 9,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_61.jpg": {
+  "patient_id": 9,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_62.jpg": {
+  "patient_id": 9,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_7.jpg": {
+  "patient_id": 5,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_8.jpg": {
+  "patient_id": 5,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_9.jpg": {
+  "patient_id": 5,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_40x_11.jpg": {
+  "patient_id": 6,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_12.jpg": {
+  "patient_id": 6,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_13.jpg": {
+  "patient_id": 6,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_14.jpg": {
+  "patient_id": 6,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_16.jpg": {
+  "patient_id": 6,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_17.jpg": {
+  "patient_id": 6,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_18.jpg": {
+  "patient_id": 6,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_20.jpg": {
+  "patient_id": 6,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_200.jpg": {
+  "patient_id": 10,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_201.jpg": {
+  "patient_id": 10,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_202.jpg": {
+  "patient_id": 10,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_203.jpg": {
+  "patient_id": 10,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_204.jpg": {
+  "patient_id": 10,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_205.jpg": {
+  "patient_id": 10,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_50.jpg": {
+  "patient_id": 11,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_51.jpg": {
+  "patient_id": 11,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_52.jpg": {
+  "patient_id": 11,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_53.jpg": {
+  "patient_id": 11,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_54.jpg": {
+  "patient_id": 11,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_55.jpg": {
+  "patient_id": 11,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_58.jpg": {
+  "patient_id": 11,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_64.jpg": {
+  "patient_id": 9,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_65.jpg": {
+  "patient_id": 9,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_66.jpg": {
+  "patient_id": 9,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_67.jpg": {
+  "patient_id": 9,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_68.jpg": {
+  "patient_id": 9,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_69.jpg": {
+  "patient_id": 9,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_70.jpg": {
+  "patient_id": 9,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_71.jpg": {
+  "patient_id": 9,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_72.jpg": {
+  "patient_id": 9,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_20x_301.jpg": {
+  "patient_id": 12,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_302.jpg": {
+  "patient_id": 12,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_303.jpg": {
+  "patient_id": 12,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_304.jpg": {
+  "patient_id": 12,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_305.jpg": {
+  "patient_id": 12,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_40x_301.jpg": {
+  "patient_id": 12,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_302.jpg": {
+  "patient_id": 12,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_303.jpg": {
+  "patient_id": 12,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_304.jpg": {
+  "patient_id": 12,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_305.jpg": {
+  "patient_id": 12,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_73.jpg": {
+  "patient_id": 9,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_20x_401.jpg": {
+  "patient_id": 13,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_402.jpg": {
+  "patient_id": 13,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_403.jpg": {
+  "patient_id": 13,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_404.jpg": {
+  "patient_id": 13,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_20x_405.jpg": {
+  "patient_id": 13,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "aca_bd/aca_bd_40x_401.jpg": {
+  "patient_id": 13,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_402.jpg": {
+  "patient_id": 13,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_403.jpg": {
+  "patient_id": 13,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_404.jpg": {
+  "patient_id": 13,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_bd/aca_bd_40x_405.jpg": {
+  "patient_id": 13,
+  "class": "aca_bd",
+  "superclass": "aca",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_20x_401.jpg": {
+  "patient_id": 13,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_20x_402.jpg": {
+  "patient_id": 13,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_20x_403.jpg": {
+  "patient_id": 13,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_20x_404.jpg": {
+  "patient_id": 13,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_20x_405.jpg": {
+  "patient_id": 13,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_40x_401.jpg": {
+  "patient_id": 13,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_402.jpg": {
+  "patient_id": 13,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_403.jpg": {
+  "patient_id": 13,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_404.jpg": {
+  "patient_id": 13,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_405.jpg": {
+  "patient_id": 13,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_20x_0.jpg": {
+  "patient_id": 14,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_20x_1.jpg": {
+  "patient_id": 14,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_20x_10.jpg": {
+  "patient_id": 14,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_20x_124.jpg": {
+  "patient_id": 15,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_20x_2.jpg": {
+  "patient_id": 14,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_20x_20.jpg": {
+  "patient_id": 14,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_20x_3.jpg": {
+  "patient_id": 14,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_20x_4.jpg": {
+  "patient_id": 14,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_20x_41.jpg": {
+  "patient_id": 8,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_20x_5.jpg": {
+  "patient_id": 14,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_20x_6.jpg": {
+  "patient_id": 14,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_20x_7.jpg": {
+  "patient_id": 14,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_20x_70.jpg": {
+  "patient_id": 16,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_20x_71.jpg": {
+  "patient_id": 16,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_20x_72.jpg": {
+  "patient_id": 16,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_20x_73.jpg": {
+  "patient_id": 16,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_20x_74.jpg": {
+  "patient_id": 16,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_20x_75.jpg": {
+  "patient_id": 16,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_20x_76.jpg": {
+  "patient_id": 16,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_20x_77.jpg": {
+  "patient_id": 16,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_20x_78.jpg": {
+  "patient_id": 16,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_20x_79.jpg": {
+  "patient_id": 16,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_20x_8.jpg": {
+  "patient_id": 14,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_20x_80.jpg": {
+  "patient_id": 16,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_20x_81.jpg": {
+  "patient_id": 16,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_20x_82.jpg": {
+  "patient_id": 16,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_20x_83.jpg": {
+  "patient_id": 16,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_20x_9.jpg": {
+  "patient_id": 16,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_40x_100.jpg": {
+  "patient_id": 16,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_101.jpg": {
+  "patient_id": 16,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_102.jpg": {
+  "patient_id": 16,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_103.jpg": {
+  "patient_id": 16,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_104.jpg": {
+  "patient_id": 16,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_120.jpg": {
+  "patient_id": 15,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_121.jpg": {
+  "patient_id": 15,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_122.jpg": {
+  "patient_id": 15,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_123.jpg": {
+  "patient_id": 15,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_125.jpg": {
+  "patient_id": 15,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_126.jpg": {
+  "patient_id": 15,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_59.jpg": {
+  "patient_id": 17,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_60.jpg": {
+  "patient_id": 17,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_61.jpg": {
+  "patient_id": 17,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_62.jpg": {
+  "patient_id": 17,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_63.jpg": {
+  "patient_id": 17,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_84.jpg": {
+  "patient_id": 16,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_85.jpg": {
+  "patient_id": 16,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_86.jpg": {
+  "patient_id": 16,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_87.jpg": {
+  "patient_id": 16,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_88.jpg": {
+  "patient_id": 16,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_89.jpg": {
+  "patient_id": 16,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_90.jpg": {
+  "patient_id": 16,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_91.jpg": {
+  "patient_id": 16,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_92.jpg": {
+  "patient_id": 16,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_93.jpg": {
+  "patient_id": 16,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_94.jpg": {
+  "patient_id": 16,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_95.jpg": {
+  "patient_id": 16,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_96.jpg": {
+  "patient_id": 16,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_97.jpg": {
+  "patient_id": 16,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_20x_301.jpg": {
+  "patient_id": 12,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_20x_302.jpg": {
+  "patient_id": 12,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_20x_303.jpg": {
+  "patient_id": 12,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_20x_304.jpg": {
+  "patient_id": 12,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_20x_305.jpg": {
+  "patient_id": 12,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_20x_306.jpg": {
+  "patient_id": 12,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "aca_md/aca_md_40x_302.jpg": {
+  "patient_id": 12,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_303.jpg": {
+  "patient_id": 12,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_304.jpg": {
+  "patient_id": 12,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_305.jpg": {
+  "patient_id": 12,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_306.jpg": {
+  "patient_id": 12,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_md/aca_md_40x_98.jpg": {
+  "patient_id": 16,
+  "class": "aca_md",
+  "superclass": "aca",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_20x_1.jpg": {
+  "patient_id": 14,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_10.jpg": {
+  "patient_id": 14,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_11.jpg": {
+  "patient_id": 6,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_12.jpg": {
+  "patient_id": 6,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_13.jpg": {
+  "patient_id": 6,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_14.jpg": {
+  "patient_id": 6,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_15.jpg": {
+  "patient_id": 6,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_16.jpg": {
+  "patient_id": 6,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_2.jpg": {
+  "patient_id": 14,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_20.jpg": {
+  "patient_id": 14,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_3.jpg": {
+  "patient_id": 14,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_30.jpg": {
+  "patient_id": 8,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_31.jpg": {
+  "patient_id": 8,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_32.jpg": {
+  "patient_id": 8,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_33.jpg": {
+  "patient_id": 8,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_34.jpg": {
+  "patient_id": 8,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_35.jpg": {
+  "patient_id": 8,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_36.jpg": {
+  "patient_id": 8,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_37.jpg": {
+  "patient_id": 8,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_38.jpg": {
+  "patient_id": 8,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_39.jpg": {
+  "patient_id": 8,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_5.jpg": {
+  "patient_id": 14,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_50.jpg": {
+  "patient_id": 18,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_52.jpg": {
+  "patient_id": 18,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_53.jpg": {
+  "patient_id": 18,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_54.jpg": {
+  "patient_id": 18,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_6.jpg": {
+  "patient_id": 14,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_7.jpg": {
+  "patient_id": 14,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_8.jpg": {
+  "patient_id": 14,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_9.jpg": {
+  "patient_id": 14,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_40x_20.jpg": {
+  "patient_id": 8,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_40x_21.jpg": {
+  "patient_id": 8,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_40x_22.jpg": {
+  "patient_id": 8,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_40x_23.jpg": {
+  "patient_id": 8,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_40x_24.jpg": {
+  "patient_id": 8,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_40x_25.jpg": {
+  "patient_id": 8,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_40x_26.jpg": {
+  "patient_id": 8,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_40x_31.jpg": {
+  "patient_id": 8,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_40x_32.jpg": {
+  "patient_id": 8,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_40x_33.jpg": {
+  "patient_id": 8,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_40x_34.jpg": {
+  "patient_id": 8,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_40x_35.jpg": {
+  "patient_id": 8,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_40x_36.jpg": {
+  "patient_id": 8,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_40x_37.jpg": {
+  "patient_id": 8,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_40x_64.jpg": {
+  "patient_id": 17,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_40x_65.jpg": {
+  "patient_id": 19,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_40x_66.jpg": {
+  "patient_id": 19,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_40x_67.jpg": {
+  "patient_id": 19,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_40x_68.jpg": {
+  "patient_id": 19,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_40x_69.jpg": {
+  "patient_id": 19,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_40x_70.jpg": {
+  "patient_id": 18,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_40x_71.jpg": {
+  "patient_id": 18,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_40x_72.jpg": {
+  "patient_id": 18,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_40x_73.jpg": {
+  "patient_id": 18,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_40x_74.jpg": {
+  "patient_id": 18,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_40x_99.jpg": {
+  "patient_id": 16,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_20x_301.jpg": {
+  "patient_id": 20,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_302.jpg": {
+  "patient_id": 20,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_303.jpg": {
+  "patient_id": 20,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_304.jpg": {
+  "patient_id": 20,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_305.jpg": {
+  "patient_id": 20,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_40x_301.jpg": {
+  "patient_id": 20,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_40x_302.jpg": {
+  "patient_id": 20,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_40x_303.jpg": {
+  "patient_id": 20,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_40x_304.jpg": {
+  "patient_id": 20,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_40x_305.jpg": {
+  "patient_id": 21,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_40x_306.jpg": {
+  "patient_id": 21,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_20x_401.jpg": {
+  "patient_id": 13,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_402.jpg": {
+  "patient_id": 13,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_403.jpg": {
+  "patient_id": 13,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_404.jpg": {
+  "patient_id": 13,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_20x_405.jpg": {
+  "patient_id": 13,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "aca_pd/aca_pd_40x_401.jpg": {
+  "patient_id": 13,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_40x_402.jpg": {
+  "patient_id": 13,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_40x_403.jpg": {
+  "patient_id": 13,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_40x_404.jpg": {
+  "patient_id": 13,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "aca_pd/aca_pd_40x_405.jpg": {
+  "patient_id": 13,
+  "class": "aca_pd",
+  "superclass": "aca",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_901.jpg": {
+  "patient_id": 22,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_902.jpg": {
+  "patient_id": 22,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_903.jpg": {
+  "patient_id": 22,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_904.jpg": {
+  "patient_id": 22,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_905.jpg": {
+  "patient_id": 22,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_20x_901.jpg": {
+  "patient_id": 23,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_902.jpg": {
+  "patient_id": 23,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_903.jpg": {
+  "patient_id": 23,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_904.jpg": {
+  "patient_id": 23,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_905.jpg": {
+  "patient_id": 23,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_md/scc_md_40x_901.jpg": {
+  "patient_id": 24,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "scc_md/scc_md_40x_902.jpg": {
+  "patient_id": 24,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "scc_md/scc_md_40x_903.jpg": {
+  "patient_id": 24,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "scc_md/scc_md_40x_904.jpg": {
+  "patient_id": 24,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "scc_md/scc_md_40x_905.jpg": {
+  "patient_id": 24,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "scc_md/scc_md_20x_901.jpg": {
+  "patient_id": 24,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "scc_md/scc_md_20x_902.jpg": {
+  "patient_id": 24,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "scc_md/scc_md_20x_903.jpg": {
+  "patient_id": 24,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "scc_md/scc_md_20x_904.jpg": {
+  "patient_id": 24,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "scc_md/scc_md_20x_905.jpg": {
+  "patient_id": 24,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_40x_901.jpg": {
+  "patient_id": 24,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_902.jpg": {
+  "patient_id": 24,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_903.jpg": {
+  "patient_id": 24,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_904.jpg": {
+  "patient_id": 24,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_905.jpg": {
+  "patient_id": 24,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_20x_901.jpg": {
+  "patient_id": 24,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_902.jpg": {
+  "patient_id": 24,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_903.jpg": {
+  "patient_id": 24,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_904.jpg": {
+  "patient_id": 24,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_905.jpg": {
+  "patient_id": 24,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_34.jpg": {
+  "patient_id": 25,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_35.jpg": {
+  "patient_id": 25,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_36.jpg": {
+  "patient_id": 25,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_37.jpg": {
+  "patient_id": 25,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_38.jpg": {
+  "patient_id": 25,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_39.jpg": {
+  "patient_id": 25,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_40.jpg": {
+  "patient_id": 25,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_41.jpg": {
+  "patient_id": 25,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_42.jpg": {
+  "patient_id": 26,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_43.jpg": {
+  "patient_id": 26,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_44.jpg": {
+  "patient_id": 26,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_45.jpg": {
+  "patient_id": 26,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_46.jpg": {
+  "patient_id": 26,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_47.jpg": {
+  "patient_id": 26,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_48.jpg": {
+  "patient_id": 26,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_49.jpg": {
+  "patient_id": 26,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_5.jpg": {
+  "patient_id": 26,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_50.jpg": {
+  "patient_id": 26,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_62.jpg": {
+  "patient_id": 27,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_63.jpg": {
+  "patient_id": 27,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_64.jpg": {
+  "patient_id": 27,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_65.jpg": {
+  "patient_id": 27,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_66.jpg": {
+  "patient_id": 27,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_67.jpg": {
+  "patient_id": 27,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_68.jpg": {
+  "patient_id": 27,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_69.jpg": {
+  "patient_id": 27,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_70.jpg": {
+  "patient_id": 27,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_71.jpg": {
+  "patient_id": 27,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_72.jpg": {
+  "patient_id": 27,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_74.jpg": {
+  "patient_id": 18,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_80.jpg": {
+  "patient_id": 28,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_81.jpg": {
+  "patient_id": 28,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_82.jpg": {
+  "patient_id": 28,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_83.jpg": {
+  "patient_id": 29,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_84.jpg": {
+  "patient_id": 29,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_40x_10.jpg": {
+  "patient_id": 26,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_27.jpg": {
+  "patient_id": 25,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_28.jpg": {
+  "patient_id": 25,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_29.jpg": {
+  "patient_id": 25,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_30.jpg": {
+  "patient_id": 25,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_31.jpg": {
+  "patient_id": 25,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_32.jpg": {
+  "patient_id": 25,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_33.jpg": {
+  "patient_id": 25,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_34.jpg": {
+  "patient_id": 25,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_35.jpg": {
+  "patient_id": 25,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_36.jpg": {
+  "patient_id": 25,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_37.jpg": {
+  "patient_id": 25,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_38.jpg": {
+  "patient_id": 25,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_39.jpg": {
+  "patient_id": 25,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_40.jpg": {
+  "patient_id": 25,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_41.jpg": {
+  "patient_id": 25,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_42.jpg": {
+  "patient_id": 26,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_43.jpg": {
+  "patient_id": 26,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_44.jpg": {
+  "patient_id": 26,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_45.jpg": {
+  "patient_id": 26,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_46.jpg": {
+  "patient_id": 26,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_47.jpg": {
+  "patient_id": 26,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_48.jpg": {
+  "patient_id": 26,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_49.jpg": {
+  "patient_id": 26,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_50.jpg": {
+  "patient_id": 26,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_73.jpg": {
+  "patient_id": 30,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_80.jpg": {
+  "patient_id": 29,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_81.jpg": {
+  "patient_id": 29,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_82.jpg": {
+  "patient_id": 28,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_83.jpg": {
+  "patient_id": 28,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_84.jpg": {
+  "patient_id": 28,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_85.jpg": {
+  "patient_id": 28,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_86.jpg": {
+  "patient_id": 28,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_87.jpg": {
+  "patient_id": 28,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_20x_301.jpg": {
+  "patient_id": 21,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_302.jpg": {
+  "patient_id": 21,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_303.jpg": {
+  "patient_id": 21,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_304.jpg": {
+  "patient_id": 21,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_305.jpg": {
+  "patient_id": 21,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_40x_301.jpg": {
+  "patient_id": 21,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_302.jpg": {
+  "patient_id": 21,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_303.jpg": {
+  "patient_id": 21,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_304.jpg": {
+  "patient_id": 21,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_305.jpg": {
+  "patient_id": 21,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_20x_401.jpg": {
+  "patient_id": 28,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_402.jpg": {
+  "patient_id": 28,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_403.jpg": {
+  "patient_id": 28,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_404.jpg": {
+  "patient_id": 28,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_20x_405.jpg": {
+  "patient_id": 28,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "20x"
+ },
+ "scc_bd/scc_bd_40x_401.jpg": {
+  "patient_id": 28,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_402.jpg": {
+  "patient_id": 28,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_403.jpg": {
+  "patient_id": 28,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_404.jpg": {
+  "patient_id": 28,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_bd/scc_bd_40x_405.jpg": {
+  "patient_id": 28,
+  "class": "scc_bd",
+  "superclass": "scc",
+  "subclass": "bd",
+  "resolution": "40x"
+ },
+ "scc_md/scc_md_20x_201.jpg": {
+  "patient_id": 30,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "scc_md/scc_md_20x_22.jpg": {
+  "patient_id": 31,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "scc_md/scc_md_20x_23.jpg": {
+  "patient_id": 31,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "scc_md/scc_md_20x_24.jpg": {
+  "patient_id": 31,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "scc_md/scc_md_20x_25.jpg": {
+  "patient_id": 31,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "scc_md/scc_md_20x_26.jpg": {
+  "patient_id": 31,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "scc_md/scc_md_20x_28.jpg": {
+  "patient_id": 31,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "scc_md/scc_md_20x_29.jpg": {
+  "patient_id": 31,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "scc_md/scc_md_20x_51.jpg": {
+  "patient_id": 32,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "scc_md/scc_md_20x_52.jpg": {
+  "patient_id": 32,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "scc_md/scc_md_20x_53.jpg": {
+  "patient_id": 32,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "scc_md/scc_md_20x_54.jpg": {
+  "patient_id": 32,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "scc_md/scc_md_20x_60.jpg": {
+  "patient_id": 33,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "scc_md/scc_md_20x_61.jpg": {
+  "patient_id": 33,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "scc_md/scc_md_20x_62.jpg": {
+  "patient_id": 33,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "scc_md/scc_md_40x_33.jpg": {
+  "patient_id": 34,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "scc_md/scc_md_40x_34.jpg": {
+  "patient_id": 34,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "scc_md/scc_md_40x_35.jpg": {
+  "patient_id": 34,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "scc_md/scc_md_40x_4.jpg": {
+  "patient_id": 34,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "scc_md/scc_md_40x_52.jpg": {
+  "patient_id": 32,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "scc_md/scc_md_40x_53.jpg": {
+  "patient_id": 32,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "scc_md/scc_md_40x_54.jpg": {
+  "patient_id": 32,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "scc_md/scc_md_40x_55.jpg": {
+  "patient_id": 32,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "scc_md/scc_md_40x_6.jpg": {
+  "patient_id": 32,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "scc_md/scc_md_40x_63.jpg": {
+  "patient_id": 33,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "scc_md/scc_md_40x_64.jpg": {
+  "patient_id": 33,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "scc_md/scc_md_40x_65.jpg": {
+  "patient_id": 33,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "scc_md/scc_md_40x_66.jpg": {
+  "patient_id": 33,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "scc_md/scc_md_40x_67.jpg": {
+  "patient_id": 33,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "scc_md/scc_md_40x_68.jpg": {
+  "patient_id": 33,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "scc_md/scc_md_40x_69.jpg": {
+  "patient_id": 33,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "scc_md/scc_md_40x_70.jpg": {
+  "patient_id": 33,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "scc_md/scc_md_40x_71.jpg": {
+  "patient_id": 35,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "scc_md/scc_md_40x_72.jpg": {
+  "patient_id": 29,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "scc_md/scc_md_40x_73.jpg": {
+  "patient_id": 29,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "scc_md/scc_md_40x_74.jpg": {
+  "patient_id": 29,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "scc_md/scc_md_20x_301.jpg": {
+  "patient_id": 36,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "scc_md/scc_md_20x_302.jpg": {
+  "patient_id": 36,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "scc_md/scc_md_20x_303.jpg": {
+  "patient_id": 36,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "scc_md/scc_md_20x_304.jpg": {
+  "patient_id": 36,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "scc_md/scc_md_20x_305.jpg": {
+  "patient_id": 36,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "scc_md/scc_md_40x_301.jpg": {
+  "patient_id": 36,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "scc_md/scc_md_40x_302.jpg": {
+  "patient_id": 36,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "scc_md/scc_md_40x_303.jpg": {
+  "patient_id": 36,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "scc_md/scc_md_40x_304.jpg": {
+  "patient_id": 36,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "scc_md/scc_md_40x_305.jpg": {
+  "patient_id": 36,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "scc_md/scc_md_20x_401.jpg": {
+  "patient_id": 37,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "scc_md/scc_md_20x_402.jpg": {
+  "patient_id": 37,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "scc_md/scc_md_20x_403.jpg": {
+  "patient_id": 37,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "scc_md/scc_md_20x_404.jpg": {
+  "patient_id": 37,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "scc_md/scc_md_20x_405.jpg": {
+  "patient_id": 37,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "20x"
+ },
+ "scc_md/scc_md_40x_401.jpg": {
+  "patient_id": 37,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "scc_md/scc_md_40x_402.jpg": {
+  "patient_id": 37,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "scc_md/scc_md_40x_403.jpg": {
+  "patient_id": 37,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "scc_md/scc_md_40x_404.jpg": {
+  "patient_id": 37,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "scc_md/scc_md_40x_405.jpg": {
+  "patient_id": 37,
+  "class": "scc_md",
+  "superclass": "scc",
+  "subclass": "md",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_20x_1.jpg": {
+  "patient_id": 38,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_10.jpg": {
+  "patient_id": 38,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_11.jpg": {
+  "patient_id": 38,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_12.jpg": {
+  "patient_id": 38,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_13.jpg": {
+  "patient_id": 38,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_14.jpg": {
+  "patient_id": 38,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_15.jpg": {
+  "patient_id": 38,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_16.jpg": {
+  "patient_id": 38,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_17.jpg": {
+  "patient_id": 38,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_18.jpg": {
+  "patient_id": 38,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_2.jpg": {
+  "patient_id": 38,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_200.jpg": {
+  "patient_id": 30,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_3.jpg": {
+  "patient_id": 38,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_31.jpg": {
+  "patient_id": 39,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_32.jpg": {
+  "patient_id": 39,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_33.jpg": {
+  "patient_id": 39,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_4.jpg": {
+  "patient_id": 38,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_5.jpg": {
+  "patient_id": 38,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_50.jpg": {
+  "patient_id": 29,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_51.jpg": {
+  "patient_id": 29,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_52.jpg": {
+  "patient_id": 29,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_53.jpg": {
+  "patient_id": 29,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_54.jpg": {
+  "patient_id": 29,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_55.jpg": {
+  "patient_id": 29,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_56.jpg": {
+  "patient_id": 29,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_57.jpg": {
+  "patient_id": 29,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_58.jpg": {
+  "patient_id": 29,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_59.jpg": {
+  "patient_id": 29,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_6.jpg": {
+  "patient_id": 38,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_60.jpg": {
+  "patient_id": 29,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_61.jpg": {
+  "patient_id": 29,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_7.jpg": {
+  "patient_id": 38,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_8.jpg": {
+  "patient_id": 38,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_9.jpg": {
+  "patient_id": 38,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_40x_1.jpg": {
+  "patient_id": 38,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_14.jpg": {
+  "patient_id": 38,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_15.jpg": {
+  "patient_id": 38,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_16.jpg": {
+  "patient_id": 38,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_17.jpg": {
+  "patient_id": 38,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_18.jpg": {
+  "patient_id": 31,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_21.jpg": {
+  "patient_id": 31,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_22.jpg": {
+  "patient_id": 31,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_23.jpg": {
+  "patient_id": 31,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_24.jpg": {
+  "patient_id": 31,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_25.jpg": {
+  "patient_id": 31,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_26.jpg": {
+  "patient_id": 34,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_30.jpg": {
+  "patient_id": 34,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_31.jpg": {
+  "patient_id": 34,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_32.jpg": {
+  "patient_id": 34,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_33.jpg": {
+  "patient_id": 34,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_34.jpg": {
+  "patient_id": 34,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_35.jpg": {
+  "patient_id": 34,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_36.jpg": {
+  "patient_id": 34,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_37.jpg": {
+  "patient_id": 34,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_38.jpg": {
+  "patient_id": 34,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_39.jpg": {
+  "patient_id": 34,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_40.jpg": {
+  "patient_id": 34,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_41.jpg": {
+  "patient_id": 34,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_42.jpg": {
+  "patient_id": 34,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_43.jpg": {
+  "patient_id": 34,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_44.jpg": {
+  "patient_id": 34,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_45.jpg": {
+  "patient_id": 34,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_46.jpg": {
+  "patient_id": 34,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_47.jpg": {
+  "patient_id": 34,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_60.jpg": {
+  "patient_id": 29,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_61.jpg": {
+  "patient_id": 29,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_20x_301.jpg": {
+  "patient_id": 40,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_302.jpg": {
+  "patient_id": 40,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_304.jpg": {
+  "patient_id": 40,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_305.jpg": {
+  "patient_id": 40,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_40x_301.jpg": {
+  "patient_id": 40,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_302.jpg": {
+  "patient_id": 40,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_303.jpg": {
+  "patient_id": 40,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_304.jpg": {
+  "patient_id": 40,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_305.jpg": {
+  "patient_id": 40,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_20x_401.jpg": {
+  "patient_id": 29,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_402.jpg": {
+  "patient_id": 29,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_403.jpg": {
+  "patient_id": 29,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_404.jpg": {
+  "patient_id": 29,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_20x_405.jpg": {
+  "patient_id": 29,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "20x"
+ },
+ "scc_pd/scc_pd_40x_401.jpg": {
+  "patient_id": 29,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_402.jpg": {
+  "patient_id": 29,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_403.jpg": {
+  "patient_id": 29,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_404.jpg": {
+  "patient_id": 29,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "scc_pd/scc_pd_40x_405.jpg": {
+  "patient_id": 29,
+  "class": "scc_pd",
+  "superclass": "scc",
+  "subclass": "pd",
+  "resolution": "40x"
+ },
+ "nor/nor_20x_1.jpg": {
+  "patient_id": 6,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_10.jpg": {
+  "patient_id": 6,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_11.jpg": {
+  "patient_id": 14,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_12.jpg": {
+  "patient_id": 14,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_13.jpg": {
+  "patient_id": 14,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_14.jpg": {
+  "patient_id": 14,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_15.jpg": {
+  "patient_id": 14,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_16.jpg": {
+  "patient_id": 14,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_17.jpg": {
+  "patient_id": 14,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_18.jpg": {
+  "patient_id": 14,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_19.jpg": {
+  "patient_id": 14,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_2.jpg": {
+  "patient_id": 6,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_20.jpg": {
+  "patient_id": 14,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_21.jpg": {
+  "patient_id": 41,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_22.jpg": {
+  "patient_id": 41,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_23.jpg": {
+  "patient_id": 41,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_24.jpg": {
+  "patient_id": 41,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_25.jpg": {
+  "patient_id": 41,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_26.jpg": {
+  "patient_id": 41,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_27.jpg": {
+  "patient_id": 41,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_28.jpg": {
+  "patient_id": 41,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_29.jpg": {
+  "patient_id": 41,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_3.jpg": {
+  "patient_id": 6,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_30.jpg": {
+  "patient_id": 41,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_31.jpg": {
+  "patient_id": 31,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_32.jpg": {
+  "patient_id": 31,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_33.jpg": {
+  "patient_id": 31,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_34.jpg": {
+  "patient_id": 31,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_35.jpg": {
+  "patient_id": 31,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_36.jpg": {
+  "patient_id": 31,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_37.jpg": {
+  "patient_id": 31,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_38.jpg": {
+  "patient_id": 31,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_39.jpg": {
+  "patient_id": 31,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_4.jpg": {
+  "patient_id": 6,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_40.jpg": {
+  "patient_id": 31,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_41.jpg": {
+  "patient_id": 31,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_42.jpg": {
+  "patient_id": 31,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_43.jpg": {
+  "patient_id": 31,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_44.jpg": {
+  "patient_id": 31,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_45.jpg": {
+  "patient_id": 31,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_47.jpg": {
+  "patient_id": 31,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_48.jpg": {
+  "patient_id": 31,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_49.jpg": {
+  "patient_id": 31,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_5.jpg": {
+  "patient_id": 6,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_50.jpg": {
+  "patient_id": 31,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_51.jpg": {
+  "patient_id": 7,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_52.jpg": {
+  "patient_id": 7,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_53.jpg": {
+  "patient_id": 7,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_54.jpg": {
+  "patient_id": 7,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_55.jpg": {
+  "patient_id": 7,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_56.jpg": {
+  "patient_id": 7,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_57.jpg": {
+  "patient_id": 7,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_58.jpg": {
+  "patient_id": 7,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_59.jpg": {
+  "patient_id": 7,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_6.jpg": {
+  "patient_id": 6,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_60.jpg": {
+  "patient_id": 7,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_61.jpg": {
+  "patient_id": 17,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_62.jpg": {
+  "patient_id": 17,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_63.jpg": {
+  "patient_id": 17,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_64.jpg": {
+  "patient_id": 17,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_65.jpg": {
+  "patient_id": 17,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_66.jpg": {
+  "patient_id": 17,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_67.jpg": {
+  "patient_id": 17,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_68.jpg": {
+  "patient_id": 17,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_69.jpg": {
+  "patient_id": 42,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_7.jpg": {
+  "patient_id": 6,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_70.jpg": {
+  "patient_id": 42,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_71.jpg": {
+  "patient_id": 42,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_72.jpg": {
+  "patient_id": 42,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_8.jpg": {
+  "patient_id": 6,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_9.jpg": {
+  "patient_id": 6,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_40x_1.jpg": {
+  "patient_id": 6,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_10.jpg": {
+  "patient_id": 6,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_100.jpg": {
+  "patient_id": 17,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_101.jpg": {
+  "patient_id": 17,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_11.jpg": {
+  "patient_id": 14,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_12.jpg": {
+  "patient_id": 14,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_13.jpg": {
+  "patient_id": 14,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_14.jpg": {
+  "patient_id": 14,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_15.jpg": {
+  "patient_id": 14,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_16.jpg": {
+  "patient_id": 14,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_17.jpg": {
+  "patient_id": 14,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_18.jpg": {
+  "patient_id": 14,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_19.jpg": {
+  "patient_id": 14,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_2.jpg": {
+  "patient_id": 6,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_20.jpg": {
+  "patient_id": 14,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_21.jpg": {
+  "patient_id": 14,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_22.jpg": {
+  "patient_id": 14,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_23.jpg": {
+  "patient_id": 14,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_24.jpg": {
+  "patient_id": 14,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_25.jpg": {
+  "patient_id": 14,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_26.jpg": {
+  "patient_id": 14,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_27.jpg": {
+  "patient_id": 14,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_28.jpg": {
+  "patient_id": 14,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_29.jpg": {
+  "patient_id": 14,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_3.jpg": {
+  "patient_id": 6,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_30.jpg": {
+  "patient_id": 14,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_4.jpg": {
+  "patient_id": 6,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_5.jpg": {
+  "patient_id": 6,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_6.jpg": {
+  "patient_id": 6,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_7.jpg": {
+  "patient_id": 6,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_8.jpg": {
+  "patient_id": 6,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_80.jpg": {
+  "patient_id": 17,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_81.jpg": {
+  "patient_id": 11,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_82.jpg": {
+  "patient_id": 11,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_83.jpg": {
+  "patient_id": 11,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_84.jpg": {
+  "patient_id": 11,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_85.jpg": {
+  "patient_id": 11,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_86.jpg": {
+  "patient_id": 11,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_87.jpg": {
+  "patient_id": 11,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_88.jpg": {
+  "patient_id": 17,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_89.jpg": {
+  "patient_id": 11,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_9.jpg": {
+  "patient_id": 6,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_90.jpg": {
+  "patient_id": 43,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_91.jpg": {
+  "patient_id": 43,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_92.jpg": {
+  "patient_id": 43,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_93.jpg": {
+  "patient_id": 43,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_94.jpg": {
+  "patient_id": 43,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_95.jpg": {
+  "patient_id": 17,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_96.jpg": {
+  "patient_id": 17,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_97.jpg": {
+  "patient_id": 17,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_98.jpg": {
+  "patient_id": 17,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_99.jpg": {
+  "patient_id": 17,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_20x_301.jpg": {
+  "patient_id": 12,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_302.jpg": {
+  "patient_id": 12,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_303.jpg": {
+  "patient_id": 12,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_304.jpg": {
+  "patient_id": 21,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_305.jpg": {
+  "patient_id": 21,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_40x_301.jpg": {
+  "patient_id": 12,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_302.jpg": {
+  "patient_id": 12,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_303.jpg": {
+  "patient_id": 12,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_304.jpg": {
+  "patient_id": 21,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_305.jpg": {
+  "patient_id": 21,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_20x_401.jpg": {
+  "patient_id": 44,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_402.jpg": {
+  "patient_id": 44,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_403.jpg": {
+  "patient_id": 44,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_404.jpg": {
+  "patient_id": 44,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_40x_401.jpg": {
+  "patient_id": 44,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_402.jpg": {
+  "patient_id": 44,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_403.jpg": {
+  "patient_id": 44,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_404.jpg": {
+  "patient_id": 44,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_901.jpg": {
+  "patient_id": 45,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_902.jpg": {
+  "patient_id": 45,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_903.jpg": {
+  "patient_id": 45,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_904.jpg": {
+  "patient_id": 45,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_40x_905.jpg": {
+  "patient_id": 45,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "40x"
+ },
+ "nor/nor_20x_901.jpg": {
+  "patient_id": 45,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_902.jpg": {
+  "patient_id": 45,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_903.jpg": {
+  "patient_id": 45,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_904.jpg": {
+  "patient_id": 45,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ },
+ "nor/nor_20x_905.jpg": {
+  "patient_id": 45,
+  "class": "nor",
+  "superclass": "nor",
+  "subclass": "",
+  "resolution": "20x"
+ }
+}

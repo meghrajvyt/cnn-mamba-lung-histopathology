@@ -1,0 +1,14 @@
+{
+ "seed": 42,
+ "ari": 0.9485855962872559,
+ "homogeneity": 0.9892009375822467,
+ "completeness": 0.9993031573140218,
+ "v_measure": 0.9942263862378378,
+ "matched_images": 15000,
+ "true_tiles": 740,
+ "tiles_spanning_splits": 9,
+ "tiles_train_and_test": 6,
+ "test_images": 2261,
+ "test_images_with_train_sibling": 40,
+ "test_fraction_with_train_sibling": 0.017691287041132243
+}

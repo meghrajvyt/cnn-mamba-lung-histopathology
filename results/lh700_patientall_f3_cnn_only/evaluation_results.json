@@ -1,0 +1,78 @@
+{
+  "metrics": {
+    "accuracy": 0.7372262773722628,
+    "balanced_accuracy": 0.7725718725718725,
+    "precision_macro": 0.7366422624174561,
+    "precision_weighted": 0.738677015158088,
+    "recall_macro": 0.7725718725718725,
+    "recall_weighted": 0.7372262773722628,
+    "f1_macro": 0.7454498780644334,
+    "f1_weighted": 0.7300787826492667,
+    "mcc": 0.6082490069893602,
+    "cohens_kappa": 0.6021297192642787,
+    "cohens_kappa_weighted": 0.4718355108160206,
+    "ece": 0.08008688079179639,
+    "brier_score": 0.36748433113098145,
+    "auc_roc": 0.9031416100403349,
+    "per_class": {
+      "lung_aca": {
+        "precision": 0.7441860465116279,
+        "recall": 0.5818181818181818,
+        "f1-score": 0.6530612244897959,
+        "support": 55,
+        "auc_roc": 0.8485587583148558
+      },
+      "lung_n": {
+        "precision": 0.725,
+        "recall": 0.9666666666666667,
+        "f1-score": 0.8285714285714286,
+        "support": 30,
+        "auc_roc": 0.9644859813084111
+      },
+      "lung_scc": {
+        "precision": 0.7407407407407407,
+        "recall": 0.7692307692307693,
+        "f1-score": 0.7547169811320755,
+        "support": 52,
+        "auc_roc": 0.8963800904977376
+      }
+    }
+  },
+  "confusion_matrix": [
+    [
+      32,
+      10,
+      13
+    ],
+    [
+      0,
+      29,
+      1
+    ],
+    [
+      11,
+      1,
+      40
+    ]
+  ],
+  "parameter_counts": {
+    "total": 3650815,
+    "trainable": 3650815,
+    "cnn_pathway": 3625340,
+    "classifier": 25091
+  },
+  "inference_benchmark": {
+    "mean_ms": 7.23516352038132,
+    "std_ms": 0.051490497414305884,
+    "throughput_fps": 138.21387687825143
+  },
+  "checkpoint": "./checkpoints/lh700_patientall_f3_cnn_only/best_model.pth",
+  "device": "cuda",
+  "test_size": 137,
+  "num_classes": 3,
+  "class_names": [
+    "lung_aca",
+    "lung_n",
+    "lung_scc"
+  ]
+}

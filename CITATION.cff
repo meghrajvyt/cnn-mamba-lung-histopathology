@@ -21,6 +21,17 @@ authors:
       Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur, India
     orcid: "https://orcid.org/0000-0002-9403-9373"
 repository-code: https://github.com/meghrajvyt/cnn-mamba-lung-histopathology
+# Zenodo archives each GitHub release using .zenodo.json and ignores this file
+# while .zenodo.json exists; without it, Zenodo would read this file and try to
+# reuse the DOI below, so keep .zenodo.json.
+doi: 10.5281/zenodo.24149833
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24149833
+    description: Version 1.0.0, the version used for the manuscript
+  - type: doi
+    value: 10.5281/zenodo.24149832
+    description: All versions of this release (concept DOI)
 abstract: >-
   Code and released data for a leakage-controlled study of an explainable
   residual CNN-Mamba hybrid on lung histopathology: the architecture and its

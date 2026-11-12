@@ -6,6 +6,10 @@ Code and released data for the paper
 > CNN–Mamba hybrid shows no accuracy gain over its convolutional counterpart in
 > lung cancer histopathology. Manuscript; not yet peer reviewed.
 
+The version used for the manuscript, v1.0.0, is archived on Zenodo:
+[doi:10.5281/zenodo.24149833](https://doi.org/10.5281/zenodo.24149833)
+(all versions: [doi:10.5281/zenodo.24149832](https://doi.org/10.5281/zenodo.24149832)).
+
 The study compares a residual CNN–Mamba hybrid with its own CNN pathway,
 EfficientNet-B0, ViT-S/16, Swin-T, a frozen Phikon linear probe and, as a
 secondary comparator, VMamba-T, on LC25000 (with copies of one tissue field kept
@@ -224,6 +228,6 @@ keeps its own terms:
   own terms (LungHist700: CC BY 4.0).
 
 If you use this code or data, please cite the paper and this release
-(`CITATION.cff`; the release is archived on Zenodo), together with LC25000
+(`CITATION.cff`; v1.0.0: doi:10.5281/zenodo.24149833), together with LC25000
 (Borkowski et al., 2019), LungHist700 (Diosdado et al., 2024), LC25000-clean
 (Batchkala et al., 2024) and Phikon (Filiot et al., 2023) where you use them.
